@@ -1,0 +1,159 @@
+Begin Object Class=/Script/Engine.Material Name="pawn_material"
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFresnel Name="MaterialExpressionFresnel_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSubtract Name="MaterialExpressionSubtract_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_0"
+      Constant=(R=1.100000,G=0.000000,B=0.000000,A=0.000000)
+      MaterialExpressionEditorX=-1696
+      MaterialExpressionEditorY=384
+      MaterialExpressionGuid=1F23EE7F4CB5455B2CF598828F4DD0C1
+      Material=Material'"pawn_material"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_1"
+      MaterialExpressionEditorX=-688
+      MaterialExpressionEditorY=224
+      MaterialExpressionGuid=922C76BC4B72CD809C4F5D97AB0EDDB0
+      Material=Material'"pawn_material"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_2"
+      Constant=(R=0.000000,G=1.000000,B=0.035471,A=0.000000)
+      MaterialExpressionEditorX=-1792
+      MaterialExpressionEditorY=560
+      MaterialExpressionGuid=1F23EE7F4CB5455B2CF598828F4DD0C1
+      Material=Material'"pawn_material"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_3"
+      Constant=(R=0.000000,G=0.969206,B=1.000000,A=0.000000)
+      MaterialExpressionEditorX=-1888
+      MaterialExpressionEditorY=736
+      MaterialExpressionGuid=1F23EE7F4CB5455B2CF598828F4DD0C1
+      Material=Material'"pawn_material"'
+   End Object
+   Begin Object Name="MaterialExpressionFresnel_1"
+      MaterialExpressionEditorX=-496
+      MaterialExpressionEditorY=576
+      MaterialExpressionGuid=C7B1720D40228CA7C3C0EB9B7099D691
+      Material=Material'"pawn_material"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_0"
+      A=(Expression=MaterialExpressionConstant3Vector'"pawn_material:MaterialExpressionConstant3Vector_1"')
+      B=(Expression=MaterialExpressionLinearInterpolate'"pawn_material:MaterialExpressionLinearInterpolate_1"')
+      Alpha=(Expression=MaterialExpressionSubtract'"pawn_material:MaterialExpressionSubtract_0"')
+      MaterialExpressionEditorX=-304
+      MaterialExpressionEditorY=224
+      MaterialExpressionGuid=E05C666C46FAD7368144A6B17E6E4E35
+      Material=Material'"pawn_material"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_1"
+      A=(Expression=MaterialExpressionConstant3Vector'"pawn_material:MaterialExpressionConstant3Vector_1"')
+      B=(Expression=MaterialExpressionLinearInterpolate'"pawn_material:MaterialExpressionLinearInterpolate_2"')
+      Alpha=(Expression=MaterialExpressionScalarParameter'"pawn_material:MaterialExpressionScalarParameter_0"')
+      ConstAlpha=1.000000
+      MaterialExpressionEditorX=-528
+      MaterialExpressionEditorY=400
+      MaterialExpressionGuid=E05C666C46FAD7368144A6B17E6E4E35
+      Material=Material'"pawn_material"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_2"
+      A=(Expression=MaterialExpressionConstant3Vector'"pawn_material:MaterialExpressionConstant3Vector_0"')
+      B=(Expression=MaterialExpressionLinearInterpolate'"pawn_material:MaterialExpressionLinearInterpolate_3"')
+      Alpha=(Expression=MaterialExpressionScalarParameter'"pawn_material:MaterialExpressionScalarParameter_1"')
+      ConstAlpha=1.000000
+      MaterialExpressionEditorX=-1232
+      MaterialExpressionEditorY=432
+      MaterialExpressionGuid=B35047A746DF979D6DAD1880649B15A9
+      Material=Material'"pawn_material"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_3"
+      A=(Expression=MaterialExpressionConstant3Vector'"pawn_material:MaterialExpressionConstant3Vector_2"')
+      B=(Expression=MaterialExpressionConstant3Vector'"pawn_material:MaterialExpressionConstant3Vector_3"')
+      Alpha=(Expression=MaterialExpressionScalarParameter'"pawn_material:MaterialExpressionScalarParameter_2"')
+      ConstAlpha=0.000000
+      MaterialExpressionEditorX=-1568
+      MaterialExpressionEditorY=576
+      MaterialExpressionGuid=A265EDCB482DA277913103B10B67E711
+      Material=Material'"pawn_material"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_0"
+      ParameterName="fresnel lerp"
+      ExpressionGUID=E60398074AEFBDE6C8B305B42E54E462
+      MaterialExpressionEditorX=-768
+      MaterialExpressionEditorY=608
+      MaterialExpressionGuid=C63066E24F6EC62073B636A9E9F2C930
+      Material=Material'"pawn_material"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_1"
+      DefaultValue=1.000000
+      ParameterName="ally pawn (1) ennemy pawn (0)"
+      ExpressionGUID=12D82C5946C561BD1C4521B836C746B3
+      MaterialExpressionEditorX=-1440
+      MaterialExpressionEditorY=800
+      MaterialExpressionGuid=3D658CB54CA651C81F23599F74B322FE
+      Material=Material'"pawn_material"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_2"
+      ParameterName="activated?"
+      ExpressionGUID=432B495D4AD65A58D7FCE28CEC78200D
+      MaterialExpressionEditorX=-1641
+      MaterialExpressionEditorY=752
+      MaterialExpressionGuid=052D141242D5A2BB97F7B483C420B8D2
+      Material=Material'"pawn_material"'
+   End Object
+   Begin Object Name="MaterialExpressionSubtract_0"
+      A=(Expression=MaterialExpressionFresnel'"pawn_material:MaterialExpressionFresnel_1"')
+      ConstB=0.025000
+      MaterialExpressionEditorX=-272
+      MaterialExpressionEditorY=528
+      MaterialExpressionGuid=CB76DCD7416535D3C449C4991ECB490A
+      Material=Material'"pawn_material"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   EmissiveColor=(Expression=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_0"')
+   TwoSided=True
+   Expressions(0)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_0"'
+   Expressions(1)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_1"'
+   Expressions(2)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_2"'
+   Expressions(3)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_1"'
+   Expressions(4)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_0"'
+   Expressions(5)=MaterialExpressionFresnel'"MaterialExpressionFresnel_1"'
+   Expressions(6)=MaterialExpressionSubtract'"MaterialExpressionSubtract_0"'
+   Expressions(7)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_2"'
+   Expressions(8)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_0"'
+   Expressions(9)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_1"'
+   Expressions(10)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_3"'
+   Expressions(11)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_3"'
+   Expressions(12)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_2"'
+   ParameterGroupData(0)=(GroupName="None")
+   ParameterGroupData(1)=(GroupName="None")
+   ParameterGroupData(2)=(GroupName="None")
+   bCanMaskedBeAssumedOpaque=True
+   StateId=58DD96FB4C708A79EDE36086C629D640
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=E349ACCD46C523A4DF84DA839356FF44
+End Object
