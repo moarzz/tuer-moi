@@ -1,0 +1,1342 @@
+﻿Log file open, 10/27/22 22:10:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=14544)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject3
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\MyProject3.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) [10.0.19043.2130] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 2600X Six-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="dca983fa43fec2251ffdd5b0028ae091"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.339733
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-3612903F4EFC66BAA2DC0CBF71FB1799
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading Mac ini files took 0.05 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.05 seconds
+LogConfig: Display: Loading IOS ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.07 seconds
+LogConfig: Display: Loading Unix ini files took 0.07 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.09 seconds
+LogConfig: Display: Loading Linux ini files took 0.09 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin ApexDestruction
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) [10.0.19043.2130] (), CPU: AMD Ryzen 5 2600X Six-Core Processor           , GPU: NVIDIA GeForce RTX 3060
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.10.28-02.10.51:251][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.10.28-02.10.51:251][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.10.28-02.10.51:251][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.10.28-02.10.51:256][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.10.28-02.10.51:256][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.10.28-02.10.51:256][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.10.28-02.10.51:256][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.10.28-02.10.51:256][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.10.28-02.10.51:256][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.10.28-02.10.51:256][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.10.28-02.10.51:256][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.10.28-02.10.51:256][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.10.28-02.10.51:256][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.10.28-02.10.51:256][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.10.28-02.10.51:275][  0]LogD3D12RHI: Aftermath initialized
+[2022.10.28-02.10.51:275][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.10.28-02.10.51:454][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.10.28-02.10.51:454][  0]LogD3D12RHI: Adapter has 12142MB of dedicated video memory, 0MB of dedicated system memory, and 16349MB of shared system memory, 2 output[s]
+[2022.10.28-02.10.51:462][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.10.28-02.10.51:462][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16349MB of shared system memory, 0 output[s]
+[2022.10.28-02.10.51:462][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.10.28-02.10.51:462][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.28-02.10.51:462][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.10.28-02.10.51:462][  0]LogHAL: Display: Platform has ~ 32 GB [34286444544 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.28-02.10.51:462][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.10.28-02.10.51:462][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.10.28-02.10.51:462][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.28-02.10.51:462][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.10.28-02.10.51:462][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Saved/Config/WindowsEditor/Editor.ini]
+[2022.10.28-02.10.51:462][  0]LogInit: Computer: DESKTOP-UPE8208
+[2022.10.28-02.10.51:462][  0]LogInit: User: xavie
+[2022.10.28-02.10.51:462][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.10.28-02.10.51:462][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.28-02.10.51:462][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.10.28-02.10.51:462][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.10.28-02.10.51:462][  0]LogMemory: Process Physical Memory: 272.36 MB used, 281.75 MB peak
+[2022.10.28-02.10.51:462][  0]LogMemory: Process Virtual Memory: 227.44 MB used, 227.44 MB peak
+[2022.10.28-02.10.51:462][  0]LogMemory: Physical Memory: 15602.00 MB used,  17096.10 MB free, 32698.10 MB total
+[2022.10.28-02.10.51:463][  0]LogMemory: Virtual Memory: 31097.76 MB used,  32099.47 MB free, 63197.23 MB total
+[2022.10.28-02.10.51:463][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.10.28-02.10.51:469][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.28-02.10.51:486][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.10.28-02.10.51:493][  0]LogInit: Using OS detected language (en-US).
+[2022.10.28-02.10.51:493][  0]LogInit: Using OS detected locale (en-US).
+[2022.10.28-02.10.51:503][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.10.28-02.10.51:687][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.28-02.10.51:705][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.10.28-02.10.51:705][  0]LogWindowsTextInputMethodSystem:   - French (Canada) - (Keyboard).
+[2022.10.28-02.10.51:705][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.10.28-02.10.51:705][  0]LogWindowsTextInputMethodSystem:   - English (Canada) - (Keyboard).
+[2022.10.28-02.10.51:705][  0]LogWindowsTextInputMethodSystem:   - English (Canada) - (Keyboard).
+[2022.10.28-02.10.51:705][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2022.10.28-02.10.51:705][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.10.28-02.10.51:706][  0]LogWindowsTextInputMethodSystem: Activated input method: French (Canada) - (Keyboard).
+[2022.10.28-02.10.51:727][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.28-02.10.51:727][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.28-02.10.51:931][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.10.28-02.10.51:935][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.10.28-02.10.51:935][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.10.28-02.10.52:047][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.10.28-02.10.52:047][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.10.28-02.10.52:047][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.10.28-02.10.52:047][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.10.28-02.10.52:047][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.10.28-02.10.52:047][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.10.28-02.10.52:047][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.10.28-02.10.52:047][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.10.28-02.10.52:047][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.10.28-02.10.52:047][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.10.28-02.10.52:047][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.10.28-02.10.52:047][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.10.28-02.10.52:047][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.10.28-02.10.52:047][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.10.28-02.10.52:047][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.10.28-02.10.52:047][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.10.28-02.10.52:118][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.10.28-02.10.52:128][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.10.28-02.10.52:148][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.10.28-02.10.52:168][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.10.28-02.10.52:168][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.10.28-02.10.52:203][  0]LogD3D12RHI:     GPU DeviceId: 0x2504 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.28-02.10.52:203][  0]LogWindows: Attached monitors:
+[2022.10.28-02.10.52:203][  0]LogWindows:     resolution: 2560x1080, work area: (0, 0) -> (2560, 1040), device: '\\.\DISPLAY2' [PRIMARY]
+[2022.10.28-02.10.52:203][  0]LogWindows:     resolution: 1920x1080, work area: (2560, 0) -> (4480, 1020), device: '\\.\DISPLAY1'
+[2022.10.28-02.10.52:203][  0]LogWindows: Found 2 attached monitors.
+[2022.10.28-02.10.52:203][  0]LogWindows: EnumDisplayDevices:
+[2022.10.28-02.10.52:204][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060' (P:0 D:1), name: '\\.\DISPLAY1'
+[2022.10.28-02.10.52:204][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060' (P:1 D:1), name: '\\.\DISPLAY2'
+[2022.10.28-02.10.52:204][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.10.28-02.10.52:204][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.10.28-02.10.52:204][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.10.28-02.10.52:204][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3060
+[2022.10.28-02.10.52:204][  0]LogD3D12RHI:   Driver Version: 516.59 (internal:31.0.15.1659, unified:516.59)
+[2022.10.28-02.10.52:204][  0]LogD3D12RHI:      Driver Date: 6-23-2022
+[2022.10.28-02.10.52:204][  0]LogRHI: Texture pool is 7165 MB (70% of 10236 MB)
+[2022.10.28-02.10.52:204][  0]LogD3D12RHI: Async texture creation enabled
+[2022.10.28-02.10.52:204][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.10.28-02.10.52:218][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.10.28-02.10.52:225][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/MyProject3.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Intermediate/TurnkeyReport_0.log" -log="C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Intermediate/TurnkeyLog_0.log" -project="C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/MyProject3.uproject"  -platform=all'
+[2022.10.28-02.10.52:225][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/MyProject3.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Intermediate/TurnkeyReport_0.log" -log="C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Intermediate/TurnkeyLog_0.log" -project="C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/MyProject3.uproject"  -platform=all" ]
+[2022.10.28-02.10.52:270][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.10.28-02.10.52:280][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.10.28-02.10.52:280][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.10.28-02.10.52:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.28-02.10.52:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.28-02.10.52:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.28-02.10.52:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.28-02.10.52:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.28-02.10.52:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.28-02.10.52:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.28-02.10.52:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.28-02.10.52:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.28-02.10.52:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.28-02.10.52:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.10.28-02.10.52:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.10.28-02.10.52:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.10.28-02.10.52:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.10.28-02.10.52:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.10.28-02.10.52:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.10.28-02.10.52:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.10.28-02.10.52:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.10.28-02.10.52:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.10.28-02.10.52:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.10.28-02.10.52:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.10.28-02.10.52:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.10.28-02.10.52:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.10.28-02.10.52:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.28-02.10.52:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.10.28-02.10.52:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.28-02.10.52:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.28-02.10.52:339][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.10.28-02.10.52:349][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.28-02.10.52:352][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.10.28-02.10.52:352][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.10.28-02.10.52:352][  0]LogTargetPlatformManager:   ADPCM
+[2022.10.28-02.10.52:352][  0]LogTargetPlatformManager:   PCM
+[2022.10.28-02.10.52:355][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.10.28-02.10.52:356][  0]LogTargetPlatformManager:   BINKA
+[2022.10.28-02.10.52:356][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.10.28-02.10.52:356][  0]LogTargetPlatformManager:   OGG
+[2022.10.28-02.10.52:356][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.10.28-02.10.52:356][  0]LogTargetPlatformManager:   OPUS
+[2022.10.28-02.10.52:406][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.10.28-02.10.52:413][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.10.28-02.10.52:413][  0]LogTargetPlatformManager:   SF_METAL
+[2022.10.28-02.10.52:413][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.10.28-02.10.52:413][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.10.28-02.10.52:413][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.10.28-02.10.52:413][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.10.28-02.10.52:413][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.10.28-02.10.52:413][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.10.28-02.10.52:413][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.10.28-02.10.52:413][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.10.28-02.10.52:413][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.10.28-02.10.52:413][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.10.28-02.10.52:413][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.10.28-02.10.52:413][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.10.28-02.10.52:413][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.10.28-02.10.52:413][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.10.28-02.10.52:417][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.10.28-02.10.52:417][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.10.28-02.10.52:417][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.10.28-02.10.52:417][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.10.28-02.10.52:417][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.10.28-02.10.52:417][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.10.28-02.10.52:417][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.10.28-02.10.52:417][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.10.28-02.10.52:418][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.28-02.10.52:418][  0]LogShaderCompilers: Display: Failed to save shader autogen file: ../../../../../../Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.28-02.10.52:419][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../../Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.28-02.10.52:419][  0]LogShaderCompilers: Display: Failed to rename shader autogen file: ../../../../../../Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.28-02.10.52:419][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.28-02.10.52:419][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.28-02.10.52:420][  0]LogShaderCompilers: Display: Failed to save shader autogen file: ../../../../../../Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.28-02.10.52:420][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../../Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.28-02.10.52:420][  0]LogShaderCompilers: Display: Failed to rename shader autogen file: ../../../../../../Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.28-02.10.52:420][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.28-02.10.52:423][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.28-02.10.52:423][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.10.28-02.10.52:423][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.28-02.10.52:423][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.10.28-02.10.52:446][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.10.28-02.10.52:446][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.10.28-02.10.52:447][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.28-02.10.52:447][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.10.28-02.10.52:456][  0]LogDerivedDataCache: Speed tests for C:/Users/xavie/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.10.28-02.10.52:456][  0]LogDerivedDataCache: Display: Performance to C:/Users/xavie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.07ms. RandomReadSpeed=844.48MBs, RandomWriteSpeed=134.95MBs. Assigned SpeedClass 'Local'
+[2022.10.28-02.10.52:456][  0]LogDerivedDataCache: Using Local data cache path C:/Users/xavie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.28-02.10.52:457][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.28-02.10.52:457][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.10.28-02.10.52:465][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.10.28-02.10.52:465][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.10.28-02.10.52:466][  0]LogShaderCompilers: Guid format shader working directory is -48 characters bigger than the processId version (../../../../../../Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Intermediate/Shaders/WorkingDirectory/17500/).
+[2022.10.28-02.10.52:466][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/xavie/AppData/Local/Temp/UnrealShaderWorkingDir/66AB00EE416793E9619F8AB7A3C4671A/'.
+[2022.10.28-02.10.52:466][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.28-02.10.52:466][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.10.28-02.10.53:969][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.28-02.10.53:970][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.28-02.10.54:013][  0]LogAssetRegistry: FAssetRegistry took 0.0174 seconds to start up
+[2022.10.28-02.10.54:022][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.10.28-02.10.54:291][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.10.28-02.10.54:292][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.10.28-02.10.54:926][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Intermediate/CachedAssetRegistry.bin.tmp
+[2022.10.28-02.10.54:926][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.28-02.10.54:926][  0]LogDeviceProfileManager: Active device profile: [0000082A50AD7A80][0000082A44090000 50] WindowsEditor
+[2022.10.28-02.10.54:926][  0]LogDeviceProfileManager: Profiles: [0000082A50AD7540][0000082A347A0000 50] Windows, [0000082A50AD7A80][0000082A44090000 50] WindowsEditor, [0000082A50AD5B00][0000082A50D90000 50] WindowsServer, [0000082A50AD3640][0000082A50D95000 50] WindowsClient, [0000082A50AD1500][0000082A50D97800 50] IOS, [0000082A50AD3480][0000082A50D9A000 50] iPadAir2, [0000082A50AD8180][0000082A44092800 50] IPadPro, [0000082A50AD8500][0000082A50D9C800 50] iPadAir3, [0000082A50AD5780][0000082A50E00000 50] iPadAir4, [0000082A50AD7E00][0000082A50E05000 50] iPadMini4, [0000082A50AD4280][0000082A50E07800 50] iPadMini5, [0000082A50AD6AC0][0000082A50E0A000 50] iPadMini6, [0000082A50AD6740][0000082A50E40000 50] iPhone6S, [0000082A50ADAF00][0000082A50E42800 50] iPhone7, [0000082A50ADB280][0000082A50E45000 50] iPodTouch7, [0000082A50AD6200][0000082A50E4A000 50] iPhone6SPlus, [0000082A50AD9840][0000082A50E4C800 50] iPhone7Plus, [0000082A50AD7FC0][0000082A50D92800 50] iPhoneSE, [0000082A50AD6E40][0000082A50E0C800 50] iPhone8, [0000082A50AD94C0][0000082A50E47800 50] iPhone8Plus, [0000082A50AD7380][0000082A50DD0000 50] iPhoneX, [0000082A50AD8880][0000082A50DD5000 50] iPhoneXS, [0000082A50AD5080][0000082A50DD7800 50] iPhoneXSMax, [0000082A50AD9F40][0000082A50DDA000 50] iPhoneXR, [0000082A50AD2140][0000082A50DDC800 50] iPhone11, [0000082A50AD71C0][0000082A50E02800 50] iPhone11Pro, [0000082A50ADA640][0000082A50DE0000 50] iPhone11ProMax, [0000082A50AD8A40][0000082A50DE5000 50] iPhoneSE2, [0000082A50AD9BC0][0000082A50DE7800 50] iPhone12Mini, [0000082A50AD3D40][0000082A50DEA000 50] iPhone12, [0000082A50AD3B80][0000082A50DEC800 50] iPhone12Pro, [0000082A50AD9140][0000082A50DD2800 50] iPhone12ProMax, [0000082A50AD39C0][0000082A50E20000 50] iPhone13Mini, [0000082A50AD4980][0000082A50E25000 50] iPhone13, [0000082A50AD8C00][0000082A50E27800 50] iPhone13Pro, [0000082A50AD9300][0000082A50E2A000 50] iPhone13ProMax, [0000082A50AD7000][0000082A50E2C800 50] iPadPro105, [0000082A50AD8DC0][0000082A50DE2800 50] iPadPro129, [0000082A50AD5400][0000082A50E30000 50] iPadPro97, [0000082A50AD9A00][0000082A50E35000 50] iPadPro2_129, [0000082A50AD78C0][0000082A50E37800 50] iPad5, [0000082A50AD3F00][0000082A50E3A000 50] iPad6, [0000082A50ADA800][0000082A50E3C800 50] iPad7, [0000082A50AD40C0][0000082A50E22800 50] iPad8, [0000082A50ADB0C0][0000082A50E50000 50] iPad9, [0000082A50AD63C0][0000082A50E55000 50] iPadPro11, [0000082A50AD5E80][0000082A50E57800 50] iPadPro2_11, [0000082A50ADB980][0000082A50E5A000 50] iPadPro3_11, [0000082A50AD9D80][0000082A50E5C800 50] iPadPro3_129, [0000082A50AD4440][0000082A50E32800 50] iPadPro4_129, [0000082A50AD4D00][0000082A50E60000 50] iPadPro5_129, [0000082A50ADA9C0][0000082A50E65000 50] AppleTV, [0000082A50AD6900][0000082A50E67800 50] AppleTV4K, [0000082A50AD32C0][0000082A50E6A000 50] TVOS, [0000082A50ADD040][0000082A50E52800 50] Mac, [0000082A50ADD3C0][0000082A50E6C800 50] MacEditor, [0000082A50ADC400][0000082A50E70000 50] MacClient, [0000082A50AD55C0][0000082A50E75000 50] MacServer, [0000082A50ADCE80][0000082A50E7A000 50] Linux, [0000082A50ADA2C0][0000082A50E77800 50] LinuxEditor, [0000082A50ADA100][0000082A50E7C800 50] LinuxArm64Editor, [0000082A50ADC5C0][0000082A50E62800 50] LinuxArm64, [0000082A50AD6580][0000082A50E80000 50] LinuxClient, [0000082A50ADBEC0][0000082A50E85000 50] LinuxArm64Client, [0000082A50ADC240][0000082A50E87800 50] LinuxServer, [0000082A50ADD580][0000082A50E8A000 50] LinuxArm64Server, [0000082A50AD9680][0000082A50E8C800 50] Android, [0000082A50AD86C0][0000082A50E72800 50] Android_Preview_OpenGL, [0000082A50ADBB40][0000082A50E90000 50] Android_Preview_Vulkan, [0000082A50ADD200][0000082A50E95000 50] Android_Low, [0000082A50AD4B40][0000082A50E97800 50] Android_Mid, [0000082A50ADCCC0][0000082A50E9A000 50] Android_High, [0000082A50AD3100][0000082A50E9C800 50] Android_Default, [0000082A50ADC940][0000082A50E82800 50] Android_Adreno4xx, [0000082A50ADBD00][0000082A50EA0000 50] Android_Adreno5xx_Low, [0000082A50AD8F80][0000082A50EA5000 50] Android_Adreno5xx, [0000082A50AD47C0][0000082A50EA7800 50] Android_Adreno6xx, [0000082A50ADDAC0][0000082A50EAA000 50] Android_Adreno6xx_Vulkan, [0000082A50AD5CC0][0000082A50EAC800 50] Android_Adreno7xx, [0000082A50AD4600][0000082A50E92800 50] Android_Adreno7xx_Vulkan, [0000082A50ADB440][0000082A50EB0000 50] Android_Mali_T6xx, [0000082A50AD5940][0000082A50EB5000 50] Android_Mali_T7xx, [0000082A50ADCB00][0000082A50EB7800 50] Android_Mali_T8xx, [0000082A50ADC780][0000082A50EBA000 50] Android_Mali_G71, [0000082A50ADE8C0][0000082A50EBC800 50] Android_Mali_G72, [0000082A50AD7C40][0000082A50EA2800 50] Android_Mali_G72_Vulkan, [0000082A50ADE380][0000082A50EC0000 50] Android_Mali_G76, [0000082A50ADD900][0000082A50EC5000 50] Android_Mali_G76_Vulkan, [0000082A50AD6C80][0000082A50EC7800 50] Android_Mali_G77, [0000082A50ADEA80][0000082A50ECA000 50] Android_Mali_G77_Vulkan, [0000082A50AD5240][0000082A50ECC800 50] Android_Mali_G78, [0000082A50ADD740][0000082A50EB2800 50] Android_Mali_G78_Vulkan, [0000082A50AD6040][0000082A50ED0000 50] Android_Mali_G710, [0000082A50ADF880][0000082A50ED5000 50] Android_Mali_G710_Vulkan, [0000082A50ADDC80][0000082A50ED7800 50] Android_Xclipse_920, [0000082A50ADF340][0000082A50EDA000 50] Android_Xclipse_920_Vulkan, [0000082A50ADDE40][0000082A50EDC800 50] Android_Vulkan_SM5, [0000082A50ADEE00][0000082A50EC2800 50] Android_PowerVR_G6xxx, [0000082A50ADAD40][0000082A50EE0000 50] Android_PowerVR_GT7xxx, [0000082A50ADFA40][0000082A50EE5000 50] Android_PowerVR_GE8xxx, [0000082A4F68FDC0][0000082A50EE7800 50] Android_PowerVR_GM9xxx, [0000082A50F12300][0000082A50EEA000 50] Android_PowerVR_GM9xxx_Vulkan, [0000082A50F11F80][0000082A50EEC800 50] Android_TegraK1, [0000082A50F11C00][0000082A50ED2800 50] Android_Unknown_Vulkan, [0000082A50F124C0][0000082A50EF0000 50] Oculus_Quest, [0000082A50F10E00][0000082A50EF5000 50] Oculus_Quest2, [0000082A50F12140][0000082A50EF7800 50] HoloLens, 
+[2022.10.28-02.10.54:926][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.10.28-02.10.54:956][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.10.28-02.10.55:151][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.28-02.10.55:151][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.28-02.10.55:151][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.28-02.10.55:151][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.28-02.10.55:151][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.28-02.10.55:170][  0]LogNetVersion: MyProject3 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 754842639)
+[2022.10.28-02.10.55:321][  0]LogSlate: Border
+[2022.10.28-02.10.55:321][  0]LogSlate: BreadcrumbButton
+[2022.10.28-02.10.55:321][  0]LogSlate: Default
+[2022.10.28-02.10.55:321][  0]LogSlate: Icons.Save
+[2022.10.28-02.10.55:321][  0]LogSlate: Icons.Toolbar.Settings
+[2022.10.28-02.10.55:321][  0]LogSlate: ListView
+[2022.10.28-02.10.55:321][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.10.28-02.10.55:321][  0]LogSlate: SoftwareCursor_Grab
+[2022.10.28-02.10.55:321][  0]LogSlate: TableView.DarkRow
+[2022.10.28-02.10.55:321][  0]LogSlate: TableView.Row
+[2022.10.28-02.10.55:321][  0]LogSlate: TreeView
+[2022.10.28-02.10.56:037][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.10.28-02.10.56:037][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.10.28-02.10.56:037][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.28-02.10.56:389][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 9AD7026D45974D8782AF8ABC36E6AF7F | Instance: 3776EAB94C47D88A8700069C7E7F252D (DESKTOP-UPE8208-17500).
+[2022.10.28-02.10.56:499][  0]LogPython: Using Python 3.9.7
+[2022.10.28-02.10.57:543][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.28-02.10.57:553][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.28-02.10.57:933][  0]LogUProjectInfo: Found projects:
+[2022.10.28-02.10.58:084][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.28-02.10.58:143][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.28-02.10.58:170][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.28-02.10.58:170][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.28-02.10.58:292][  0]LogCollectionManager: Loaded 0 collections in 0.003235 seconds
+[2022.10.28-02.10.58:396][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Saved/Collections/' took 0.00s
+[2022.10.28-02.10.58:396][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/Developers/xavie/Collections/' took 0.00s
+[2022.10.28-02.10.58:396][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/Collections/' took 0.00s
+[2022.10.28-02.10.58:727][  0]LogEngine: Initializing Engine...
+[2022.10.28-02.10.58:746][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.10.28-02.10.58:747][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.28-02.10.59:069][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.28-02.10.59:069][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.28-02.10.59:084][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-02.10.59:126][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.28-02.10.59:127][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.28-02.10.59:157][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.28-02.10.59:158][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.28-02.10.59:158][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.10.28-02.10.59:159][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.28-02.10.59:159][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.28-02.10.59:159][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.28-02.10.59:159][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.28-02.10.59:159][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.28-02.10.59:159][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.28-02.10.59:159][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.28-02.10.59:159][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.28-02.10.59:159][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.28-02.10.59:159][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.28-02.10.59:159][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.28-02.10.59:159][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.28-02.10.59:159][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.28-02.10.59:170][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.28-02.10.59:214][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud Stinger Wireless)
+[2022.10.28-02.10.59:215][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.28-02.10.59:217][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.28-02.10.59:218][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.28-02.10.59:229][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.10.28-02.10.59:229][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.10.28-02.10.59:231][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.28-02.10.59:231][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.10.28-02.10.59:231][  0]LogInit: FAudioDevice initialized.
+[2022.10.28-02.10.59:231][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.28-02.10.59:231][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.28-02.10.59:231][  0]LogInit: Texture streaming: Enabled
+[2022.10.28-02.10.59:276][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.10.28-02.10.59:288][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.28-02.10.59:318][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.10.28-02.10.59:328][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.10.28-02.10.59:328][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.10.28-02.11.01:732][  0]LogLiveCoding: Display: First instance in process group "UE_MyProject3_0x05480766", spawning console
+[2022.10.28-02.11.01:732][  0]LogLiveCoding: Display: Waiting for server
+[2022.10.28-02.11.01:732][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.10.28-02.11.01:769][  0]LogInit: Transaction tracking system initialized
+[2022.10.28-02.11.01:881][  0]BlueprintLog: New page: Editor Load
+[2022.10.28-02.11.02:150][  0]LocalizationService: Localization service is disabled
+[2022.10.28-02.11.02:222][  0]TimingProfiler: Initialize
+[2022.10.28-02.11.02:222][  0]TimingProfiler: OnSessionChanged
+[2022.10.28-02.11.02:223][  0]LoadingProfiler: Initialize
+[2022.10.28-02.11.02:223][  0]LoadingProfiler: OnSessionChanged
+[2022.10.28-02.11.02:223][  0]NetworkingProfiler: Initialize
+[2022.10.28-02.11.02:223][  0]NetworkingProfiler: OnSessionChanged
+[2022.10.28-02.11.02:223][  0]MemoryProfiler: Initialize
+[2022.10.28-02.11.02:223][  0]MemoryProfiler: OnSessionChanged
+[2022.10.28-02.11.03:117][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/' took 0.13s
+[2022.10.28-02.11.03:117][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.10.28-02.11.03:221][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.28-02.11.03:424][  0]LogUnrealEdMisc: Loading editor; pre map load, took 14.335
+[2022.10.28-02.11.03:424][  0]Cmd: MAP LOAD FILE="../../../../../../Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/MAP_RUNES_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.28-02.11.03:424][  0]LightingResults: New page: Lighting Build
+[2022.10.28-02.11.03:433][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-02.11.03:433][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-02.11.03:433][  0]MapCheck: New page: Map Check
+[2022.10.28-02.11.03:433][  0]LightingResults: New page: Lighting Build
+[2022.10.28-02.11.03:439][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.28-02.11.03:443][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.28-02.11.06:679][  0]LogLinker: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\TopDown\MAP_RUNES_2.umap: Failed to load '/Game/FluidNinjaLive/Tutorial/Levels/invisible_sphere': Can't find file.
+[2022.10.28-02.11.06:679][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/FluidNinjaLive/Tutorial/Levels/invisible_sphere'
+[2022.10.28-02.11.06:756][  0]LogLinker: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\Animated_RPG_Icons\Animated_Icons\Arcane\arcane_barage\_arcane_barage_fb.uasset: Failed to load '/Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_19': Can't find file.
+[2022.10.28-02.11.06:756][  0]LoadErrors: Failed to load /Game/TopDown/ICONS/UI/game_ui.game_ui_C Referenced by Widget_GEN_VARIABLE
+[2022.10.28-02.11.06:756][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_19'
+[2022.10.28-02.11.06:756][  0]LogLinker: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\Animated_RPG_Icons\Animated_Icons\Arcane\arcane_barage\_arcane_barage_fb.uasset: Failed to load '/Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_20': Can't find file.
+[2022.10.28-02.11.06:756][  0]LoadErrors: Failed to load /Game/TopDown/ICONS/UI/game_ui.game_ui_C Referenced by Widget_GEN_VARIABLE
+[2022.10.28-02.11.06:756][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_20'
+[2022.10.28-02.11.06:756][  0]LogLinker: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\Animated_RPG_Icons\Animated_Icons\Arcane\arcane_barage\_arcane_barage_fb.uasset: Failed to load '/Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_21': Can't find file.
+[2022.10.28-02.11.06:756][  0]LoadErrors: Failed to load /Game/TopDown/ICONS/UI/game_ui.game_ui_C Referenced by Widget_GEN_VARIABLE
+[2022.10.28-02.11.06:756][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_21'
+[2022.10.28-02.11.06:757][  0]LogLinker: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\Animated_RPG_Icons\Animated_Icons\Arcane\arcane_barage\_arcane_barage_fb.uasset: Failed to load '/Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_22': Can't find file.
+[2022.10.28-02.11.06:757][  0]LoadErrors: Failed to load /Game/TopDown/ICONS/UI/game_ui.game_ui_C Referenced by Widget_GEN_VARIABLE
+[2022.10.28-02.11.06:757][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_22'
+[2022.10.28-02.11.06:757][  0]LogLinker: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\Animated_RPG_Icons\Animated_Icons\Arcane\arcane_barage\_arcane_barage_fb.uasset: Failed to load '/Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_23': Can't find file.
+[2022.10.28-02.11.06:757][  0]LoadErrors: Failed to load /Game/TopDown/ICONS/UI/game_ui.game_ui_C Referenced by Widget_GEN_VARIABLE
+[2022.10.28-02.11.06:757][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_23'
+[2022.10.28-02.11.06:758][  0]LogLinker: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\Animated_RPG_Icons\Animated_Icons\Arcane\arcane_barage\_arcane_barage_fb.uasset: Failed to load '/Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_24': Can't find file.
+[2022.10.28-02.11.06:758][  0]LoadErrors: Failed to load /Game/TopDown/ICONS/UI/game_ui.game_ui_C Referenced by Widget_GEN_VARIABLE
+[2022.10.28-02.11.06:758][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_24'
+[2022.10.28-02.11.06:758][  0]LogLinker: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\Animated_RPG_Icons\Animated_Icons\Arcane\arcane_barage\_arcane_barage_fb.uasset: Failed to load '/Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_25': Can't find file.
+[2022.10.28-02.11.06:758][  0]LoadErrors: Failed to load /Game/TopDown/ICONS/UI/game_ui.game_ui_C Referenced by Widget_GEN_VARIABLE
+[2022.10.28-02.11.06:758][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_25'
+[2022.10.28-02.11.06:758][  0]LogLinker: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\Animated_RPG_Icons\Animated_Icons\Arcane\arcane_barage\_arcane_barage_fb.uasset: Failed to load '/Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_26': Can't find file.
+[2022.10.28-02.11.06:758][  0]LoadErrors: Failed to load /Game/TopDown/ICONS/UI/game_ui.game_ui_C Referenced by Widget_GEN_VARIABLE
+[2022.10.28-02.11.06:758][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_26'
+[2022.10.28-02.11.06:759][  0]LogLinker: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\Animated_RPG_Icons\Animated_Icons\Arcane\arcane_barage\_arcane_barage_fb.uasset: Failed to load '/Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_27': Can't find file.
+[2022.10.28-02.11.06:759][  0]LoadErrors: Failed to load /Game/TopDown/ICONS/UI/game_ui.game_ui_C Referenced by Widget_GEN_VARIABLE
+[2022.10.28-02.11.06:759][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_27'
+[2022.10.28-02.11.06:759][  0]LogLinker: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\Animated_RPG_Icons\Animated_Icons\Arcane\arcane_barage\_arcane_barage_fb.uasset: Failed to load '/Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_28': Can't find file.
+[2022.10.28-02.11.06:759][  0]LoadErrors: Failed to load /Game/TopDown/ICONS/UI/game_ui.game_ui_C Referenced by Widget_GEN_VARIABLE
+[2022.10.28-02.11.06:759][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_28'
+[2022.10.28-02.11.06:759][  0]LogLinker: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\Animated_RPG_Icons\Animated_Icons\Arcane\arcane_barage\_arcane_barage_fb.uasset: Failed to load '/Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_29': Can't find file.
+[2022.10.28-02.11.06:759][  0]LoadErrors: Failed to load /Game/TopDown/ICONS/UI/game_ui.game_ui_C Referenced by Widget_GEN_VARIABLE
+[2022.10.28-02.11.06:759][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_29'
+[2022.10.28-02.11.06:760][  0]LogLinker: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\Animated_RPG_Icons\Animated_Icons\Arcane\arcane_barage\_arcane_barage_fb.uasset: Failed to load '/Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_30': Can't find file.
+[2022.10.28-02.11.06:760][  0]LoadErrors: Failed to load /Game/TopDown/ICONS/UI/game_ui.game_ui_C Referenced by Widget_GEN_VARIABLE
+[2022.10.28-02.11.06:760][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_30'
+[2022.10.28-02.11.06:760][  0]LogLinker: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\Animated_RPG_Icons\Animated_Icons\Arcane\arcane_barage\_arcane_barage_fb.uasset: Failed to load '/Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_31': Can't find file.
+[2022.10.28-02.11.06:760][  0]LoadErrors: Failed to load /Game/TopDown/ICONS/UI/game_ui.game_ui_C Referenced by Widget_GEN_VARIABLE
+[2022.10.28-02.11.06:760][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animated_RPG_Icons/Animated_Icons/Arcane/arcane_barage/SP_arcane_barage_31'
+[2022.10.28-02.11.06:769][  0]LogLinker: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\Animated_RPG_Icons\Static_icons\force\SP_force_sprint_Sprite.uasset: Failed to load '/Game/Animated_RPG_Icons/Static_icons/force/Textures/T_force_sprint': Can't find file.
+[2022.10.28-02.11.06:769][  0]LoadErrors: Failed to load /Game/TopDown/ICONS/UI/game_ui.game_ui_C Referenced by Widget_GEN_VARIABLE
+[2022.10.28-02.11.06:769][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animated_RPG_Icons/Static_icons/force/Textures/T_force_sprint'
+[2022.10.28-02.11.06:959][  0]LogLinker: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\TopDown\characters\elemental_mage_\ice_pilliar\ice_pillar.uasset: Failed to load '/Game/Stylized_Ice_Formations/Meshes/SM_Ice_Formation_12': Can't find file.
+[2022.10.28-02.11.06:959][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Stylized_Ice_Formations/Meshes/SM_Ice_Formation_12'
+[2022.10.28-02.11.06:959][  0]LogLinker: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\TopDown\characters\elemental_mage_\ice_pilliar\ice_pillar.uasset: Failed to load '/Game/Stylized_Ice_Formations/Meshes/SM_Ice_Formation_9': Can't find file.
+[2022.10.28-02.11.06:959][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Stylized_Ice_Formations/Meshes/SM_Ice_Formation_9'
+[2022.10.28-02.11.08:562][  0]LogEnum: Warning: Enum name collision: 'ENiagaraRandomnessMode::NewEnumerator0' is in both '/Game/Migrated/miscelleanous/ENiagaraRandomnessMode.ENiagaraRandomnessMode' and '/Niagara/Enums/ENiagaraRandomnessMode.ENiagaraRandomnessMode'
+[2022.10.28-02.11.08:562][  0]LogEnum: Warning: Enum name collision: 'ENiagaraRandomnessMode::NewEnumerator1' is in both '/Game/Migrated/miscelleanous/ENiagaraRandomnessMode.ENiagaraRandomnessMode' and '/Niagara/Enums/ENiagaraRandomnessMode.ENiagaraRandomnessMode'
+[2022.10.28-02.11.08:562][  0]LogEnum: Warning: Enum name collision: 'ENiagaraRandomnessMode::NewEnumerator2' is in both '/Game/Migrated/miscelleanous/ENiagaraRandomnessMode.ENiagaraRandomnessMode' and '/Niagara/Enums/ENiagaraRandomnessMode.ENiagaraRandomnessMode'
+[2022.10.28-02.11.08:600][  0]LogEnum: Warning: Enum name collision: 'ENiagaraVector4_Channels::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraVector4_Channels.ENiagaraVector4_Channels' and '/Game/Migrated/miscelleanous/ENiagaraVector4_Channels.ENiagaraVector4_Channels'
+[2022.10.28-02.11.08:600][  0]LogEnum: Warning: Enum name collision: 'ENiagaraVector4_Channels::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraVector4_Channels.ENiagaraVector4_Channels' and '/Game/Migrated/miscelleanous/ENiagaraVector4_Channels.ENiagaraVector4_Channels'
+[2022.10.28-02.11.08:600][  0]LogEnum: Warning: Enum name collision: 'ENiagaraVector4_Channels::NewEnumerator2' is in both '/Niagara/Enums/ENiagaraVector4_Channels.ENiagaraVector4_Channels' and '/Game/Migrated/miscelleanous/ENiagaraVector4_Channels.ENiagaraVector4_Channels'
+[2022.10.28-02.11.08:600][  0]LogEnum: Warning: Enum name collision: 'ENiagaraVector4_Channels::NewEnumerator3' is in both '/Niagara/Enums/ENiagaraVector4_Channels.ENiagaraVector4_Channels' and '/Game/Migrated/miscelleanous/ENiagaraVector4_Channels.ENiagaraVector4_Channels'
+[2022.10.28-02.11.08:632][  0]LogEnum: Warning: Enum name collision: 'ENiagaraRandomnessEvaluation::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraRandomnessEvaluation.ENiagaraRandomnessEvaluation' and '/Game/Migrated/miscelleanous/ENiagaraRandomnessEvaluation.ENiagaraRandomnessEvaluation'
+[2022.10.28-02.11.08:632][  0]LogEnum: Warning: Enum name collision: 'ENiagaraRandomnessEvaluation::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraRandomnessEvaluation.ENiagaraRandomnessEvaluation' and '/Game/Migrated/miscelleanous/ENiagaraRandomnessEvaluation.ENiagaraRandomnessEvaluation'
+[2022.10.28-02.11.08:637][  0]LogEnum: Warning: Enum name collision: 'ENiagara_EmitterStateOptions::NewEnumerator0' is in both '/Niagara/Enums/ENiagara_EmitterStateOptions.ENiagara_EmitterStateOptions' and '/Game/Migrated/miscelleanous/ENiagara_EmitterStateOptions.ENiagara_EmitterStateOptions'
+[2022.10.28-02.11.08:637][  0]LogEnum: Warning: Enum name collision: 'ENiagara_EmitterStateOptions::NewEnumerator1' is in both '/Niagara/Enums/ENiagara_EmitterStateOptions.ENiagara_EmitterStateOptions' and '/Game/Migrated/miscelleanous/ENiagara_EmitterStateOptions.ENiagara_EmitterStateOptions'
+[2022.10.28-02.11.08:637][  0]LogEnum: Warning: Enum name collision: 'ENiagara_EmitterStateOptions::NewEnumerator2' is in both '/Niagara/Enums/ENiagara_EmitterStateOptions.ENiagara_EmitterStateOptions' and '/Game/Migrated/miscelleanous/ENiagara_EmitterStateOptions.ENiagara_EmitterStateOptions'
+[2022.10.28-02.11.08:637][  0]LogEnum: Warning: Enum name collision: 'ENiagara_InfiniteLoopDuration::NewEnumerator0' is in both '/Niagara/Enums/ENiagara_InfiniteLoopDuration.ENiagara_InfiniteLoopDuration' and '/Game/Migrated/miscelleanous/ENiagara_InfiniteLoopDuration.ENiagara_InfiniteLoopDuration'
+[2022.10.28-02.11.08:637][  0]LogEnum: Warning: Enum name collision: 'ENiagara_InfiniteLoopDuration::NewEnumerator1' is in both '/Niagara/Enums/ENiagara_InfiniteLoopDuration.ENiagara_InfiniteLoopDuration' and '/Game/Migrated/miscelleanous/ENiagara_InfiniteLoopDuration.ENiagara_InfiniteLoopDuration'
+[2022.10.28-02.11.08:637][  0]LogEnum: Warning: Enum name collision: 'ENiagaraEmitterLifeCycleMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraEmitterLifeCycleMode.ENiagaraEmitterLifeCycleMode' and '/Game/Migrated/miscelleanous/ENiagaraEmitterLifeCycleMode.ENiagaraEmitterLifeCycleMode'
+[2022.10.28-02.11.08:637][  0]LogEnum: Warning: Enum name collision: 'ENiagaraEmitterLifeCycleMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraEmitterLifeCycleMode.ENiagaraEmitterLifeCycleMode' and '/Game/Migrated/miscelleanous/ENiagaraEmitterLifeCycleMode.ENiagaraEmitterLifeCycleMode'
+[2022.10.28-02.11.08:637][  0]LogEnum: Warning: Enum name collision: 'ENiagaraEmitterScalabilityMode_Limited::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraEmitterScalabilityMode_Limited.ENiagaraEmitterScalabilityMode_Limited' and '/Game/Migrated/miscelleanous/ENiagaraEmitterScalabilityMode_Limited.ENiagaraEmitterScalabilityMode_Limited'
+[2022.10.28-02.11.08:638][  0]LogEnum: Warning: Enum name collision: 'ENiagaraEmitterScalabilityMode_Limited::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraEmitterScalabilityMode_Limited.ENiagaraEmitterScalabilityMode_Limited' and '/Game/Migrated/miscelleanous/ENiagaraEmitterScalabilityMode_Limited.ENiagaraEmitterScalabilityMode_Limited'
+[2022.10.28-02.11.08:638][  0]LogEnum: Warning: Enum name collision: 'ENiagaraExecutionStateManagement::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraExecutionStateManagement.ENiagaraExecutionStateManagement' and '/Game/Migrated/miscelleanous/ENiagaraExecutionStateManagement.ENiagaraExecutionStateManagement'
+[2022.10.28-02.11.08:638][  0]LogEnum: Warning: Enum name collision: 'ENiagaraExecutionStateManagement::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraExecutionStateManagement.ENiagaraExecutionStateManagement' and '/Game/Migrated/miscelleanous/ENiagaraExecutionStateManagement.ENiagaraExecutionStateManagement'
+[2022.10.28-02.11.08:638][  0]LogEnum: Warning: Enum name collision: 'ENiagaraExecutionStateManagement::NewEnumerator2' is in both '/Niagara/Enums/ENiagaraExecutionStateManagement.ENiagaraExecutionStateManagement' and '/Game/Migrated/miscelleanous/ENiagaraExecutionStateManagement.ENiagaraExecutionStateManagement'
+[2022.10.28-02.11.08:638][  0]LogEnum: Warning: Enum name collision: 'ENiagaraExecutionStateManagement::NewEnumerator3' is in both '/Niagara/Enums/ENiagaraExecutionStateManagement.ENiagaraExecutionStateManagement' and '/Game/Migrated/miscelleanous/ENiagaraExecutionStateManagement.ENiagaraExecutionStateManagement'
+[2022.10.28-02.11.08:638][  0]LogEnum: Warning: Enum name collision: 'ENiagaraExecutionStateManagement::NewEnumerator4' is in both '/Niagara/Enums/ENiagaraExecutionStateManagement.ENiagaraExecutionStateManagement' and '/Game/Migrated/miscelleanous/ENiagaraExecutionStateManagement.ENiagaraExecutionStateManagement'
+[2022.10.28-02.11.08:638][  0]LogEnum: Warning: Enum name collision: 'ENiagaraInactiveMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraInactiveMode.ENiagaraInactiveMode' and '/Game/Migrated/miscelleanous/ENiagaraInactiveMode.ENiagaraInactiveMode'
+[2022.10.28-02.11.08:638][  0]LogEnum: Warning: Enum name collision: 'ENiagaraInactiveMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraInactiveMode.ENiagaraInactiveMode' and '/Game/Migrated/miscelleanous/ENiagaraInactiveMode.ENiagaraInactiveMode'
+[2022.10.28-02.11.08:638][  0]LogEnum: Warning: Enum name collision: 'ENiagaraInactiveMode::NewEnumerator2' is in both '/Niagara/Enums/ENiagaraInactiveMode.ENiagaraInactiveMode' and '/Game/Migrated/miscelleanous/ENiagaraInactiveMode.ENiagaraInactiveMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_ColorInitializationMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagara_ColorInitializationMode.ENiagara_ColorInitializationMode' and '/Game/Migrated/miscelleanous/ENiagara_ColorInitializationMode.ENiagara_ColorInitializationMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_ColorInitializationMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagara_ColorInitializationMode.ENiagara_ColorInitializationMode' and '/Game/Migrated/miscelleanous/ENiagara_ColorInitializationMode.ENiagara_ColorInitializationMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_ColorInitializationMode::NewEnumerator2' is in both '/Niagara/Enums/ENiagara_ColorInitializationMode.ENiagara_ColorInitializationMode' and '/Game/Migrated/miscelleanous/ENiagara_ColorInitializationMode.ENiagara_ColorInitializationMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_ColorInitializationMode::NewEnumerator3' is in both '/Niagara/Enums/ENiagara_ColorInitializationMode.ENiagara_ColorInitializationMode' and '/Game/Migrated/miscelleanous/ENiagara_ColorInitializationMode.ENiagara_ColorInitializationMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_LifetimeMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagara_LifetimeMode.ENiagara_LifetimeMode' and '/Game/Migrated/miscelleanous/ENiagara_LifetimeMode.ENiagara_LifetimeMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_LifetimeMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagara_LifetimeMode.ENiagara_LifetimeMode' and '/Game/Migrated/miscelleanous/ENiagara_LifetimeMode.ENiagara_LifetimeMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_MassInitializationMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagara_MassInitializationMode.ENiagara_MassInitializationMode' and '/Game/Migrated/miscelleanous/ENiagara_MassInitializationMode.ENiagara_MassInitializationMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_MassInitializationMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagara_MassInitializationMode.ENiagara_MassInitializationMode' and '/Game/Migrated/miscelleanous/ENiagara_MassInitializationMode.ENiagara_MassInitializationMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_MassInitializationMode::NewEnumerator3' is in both '/Niagara/Enums/ENiagara_MassInitializationMode.ENiagara_MassInitializationMode' and '/Game/Migrated/miscelleanous/ENiagara_MassInitializationMode.ENiagara_MassInitializationMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_PositionInitializationMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagara_PositionInitializationMode.ENiagara_PositionInitializationMode' and '/Game/Migrated/miscelleanous/ENiagara_PositionInitializationMode.ENiagara_PositionInitializationMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_PositionInitializationMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagara_PositionInitializationMode.ENiagara_PositionInitializationMode' and '/Game/Migrated/miscelleanous/ENiagara_PositionInitializationMode.ENiagara_PositionInitializationMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_PositionInitializationMode::NewEnumerator2' is in both '/Niagara/Enums/ENiagara_PositionInitializationMode.ENiagara_PositionInitializationMode' and '/Game/Migrated/miscelleanous/ENiagara_PositionInitializationMode.ENiagara_PositionInitializationMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_SizeScaleMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode' and '/Game/Migrated/miscelleanous/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_SizeScaleMode::NewEnumerator3' is in both '/Niagara/Enums/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode' and '/Game/Migrated/miscelleanous/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_SizeScaleMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode' and '/Game/Migrated/miscelleanous/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_SizeScaleMode::NewEnumerator4' is in both '/Niagara/Enums/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode' and '/Game/Migrated/miscelleanous/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_SizeScaleMode::NewEnumerator2' is in both '/Niagara/Enums/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode' and '/Game/Migrated/miscelleanous/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_SpriteRotationMode::NewEnumerator3' is in both '/Niagara/Enums/ENiagara_SpriteRotationMode.ENiagara_SpriteRotationMode' and '/Game/Migrated/miscelleanous/ENiagara_SpriteRotationMode.ENiagara_SpriteRotationMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_SpriteRotationMode::NewEnumerator2' is in both '/Niagara/Enums/ENiagara_SpriteRotationMode.ENiagara_SpriteRotationMode' and '/Game/Migrated/miscelleanous/ENiagara_SpriteRotationMode.ENiagara_SpriteRotationMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_SpriteRotationMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagara_SpriteRotationMode.ENiagara_SpriteRotationMode' and '/Game/Migrated/miscelleanous/ENiagara_SpriteRotationMode.ENiagara_SpriteRotationMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_SpriteRotationMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagara_SpriteRotationMode.ENiagara_SpriteRotationMode' and '/Game/Migrated/miscelleanous/ENiagara_SpriteRotationMode.ENiagara_SpriteRotationMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_UVFlippingMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagara_UVFlippingMode.ENiagara_UVFlippingMode' and '/Game/Migrated/miscelleanous/ENiagara_UVFlippingMode.ENiagara_UVFlippingMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_UVFlippingMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagara_UVFlippingMode.ENiagara_UVFlippingMode' and '/Game/Migrated/miscelleanous/ENiagara_UVFlippingMode.ENiagara_UVFlippingMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_UVFlippingMode::NewEnumerator2' is in both '/Niagara/Enums/ENiagara_UVFlippingMode.ENiagara_UVFlippingMode' and '/Game/Migrated/miscelleanous/ENiagara_UVFlippingMode.ENiagara_UVFlippingMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_UVFlippingMode::NewEnumerator3' is in both '/Niagara/Enums/ENiagara_UVFlippingMode.ENiagara_UVFlippingMode' and '/Game/Migrated/miscelleanous/ENiagara_UVFlippingMode.ENiagara_UVFlippingMode'
+[2022.10.28-02.11.08:670][  0]LogEnum: Warning: Enum name collision: 'ENiagara_UVFlippingMode::NewEnumerator4' is in both '/Niagara/Enums/ENiagara_UVFlippingMode.ENiagara_UVFlippingMode' and '/Game/Migrated/miscelleanous/ENiagara_UVFlippingMode.ENiagara_UVFlippingMode'
+[2022.10.28-02.11.08:671][  0]LogEnum: Warning: Enum name collision: 'ENiagaraChannelCorrelation::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraChannelCorrelation.ENiagaraChannelCorrelation' and '/Game/Migrated/miscelleanous/ENiagaraChannelCorrelation.ENiagaraChannelCorrelation'
+[2022.10.28-02.11.08:671][  0]LogEnum: Warning: Enum name collision: 'ENiagaraChannelCorrelation::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraChannelCorrelation.ENiagaraChannelCorrelation' and '/Game/Migrated/miscelleanous/ENiagaraChannelCorrelation.ENiagaraChannelCorrelation'
+[2022.10.28-02.11.08:671][  0]LogEnum: Warning: Enum name collision: 'ENiagaraChannelCorrelation::NewEnumerator2' is in both '/Niagara/Enums/ENiagaraChannelCorrelation.ENiagaraChannelCorrelation' and '/Game/Migrated/miscelleanous/ENiagaraChannelCorrelation.ENiagaraChannelCorrelation'
+[2022.10.28-02.11.08:671][  0]LogEnum: Warning: Enum name collision: 'ENiagara_UnsetDirectSet::NewEnumerator0' is in both '/Niagara/Enums/Ribbons/ENiagara_UnsetDirectSet.ENiagara_UnsetDirectSet' and '/Game/Migrated/miscelleanous/ENiagara_UnsetDirectSet.ENiagara_UnsetDirectSet'
+[2022.10.28-02.11.08:671][  0]LogEnum: Warning: Enum name collision: 'ENiagara_UnsetDirectSet::NewEnumerator1' is in both '/Niagara/Enums/Ribbons/ENiagara_UnsetDirectSet.ENiagara_UnsetDirectSet' and '/Game/Migrated/miscelleanous/ENiagara_UnsetDirectSet.ENiagara_UnsetDirectSet'
+[2022.10.28-02.11.08:671][  0]LogEnum: Warning: Enum name collision: 'ENiagara_UnsetDirectSetRandom::NewEnumerator0' is in both '/Niagara/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.ENiagara_UnsetDirectSetRandom' and '/Game/Migrated/miscelleanous/ENiagara_UnsetDirectSetRandom.ENiagara_UnsetDirectSetRandom'
+[2022.10.28-02.11.08:671][  0]LogEnum: Warning: Enum name collision: 'ENiagara_UnsetDirectSetRandom::NewEnumerator1' is in both '/Niagara/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.ENiagara_UnsetDirectSetRandom' and '/Game/Migrated/miscelleanous/ENiagara_UnsetDirectSetRandom.ENiagara_UnsetDirectSetRandom'
+[2022.10.28-02.11.08:671][  0]LogEnum: Warning: Enum name collision: 'ENiagara_UnsetDirectSetRandom::NewEnumerator3' is in both '/Niagara/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.ENiagara_UnsetDirectSetRandom' and '/Game/Migrated/miscelleanous/ENiagara_UnsetDirectSetRandom.ENiagara_UnsetDirectSetRandom'
+[2022.10.28-02.11.08:703][  0]LogEnum: Warning: Enum name collision: 'ENiagaraExpansionMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraExpansionMode.ENiagaraExpansionMode' and '/Game/Migrated/miscelleanous/ENiagaraExpansionMode.ENiagaraExpansionMode'
+[2022.10.28-02.11.08:703][  0]LogEnum: Warning: Enum name collision: 'ENiagaraExpansionMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraExpansionMode.ENiagaraExpansionMode' and '/Game/Migrated/miscelleanous/ENiagaraExpansionMode.ENiagaraExpansionMode'
+[2022.10.28-02.11.08:703][  0]LogEnum: Warning: Enum name collision: 'ENiagaraExpansionMode::NewEnumerator2' is in both '/Niagara/Enums/ENiagaraExpansionMode.ENiagaraExpansionMode' and '/Game/Migrated/miscelleanous/ENiagaraExpansionMode.ENiagaraExpansionMode'
+[2022.10.28-02.11.08:703][  0]LogEnum: Warning: Enum name collision: 'ENiagaraSphereDistributionMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraSphereDistributionMode.ENiagaraSphereDistributionMode' and '/Game/Migrated/miscelleanous/ENiagaraSphereDistributionMode.ENiagaraSphereDistributionMode'
+[2022.10.28-02.11.08:703][  0]LogEnum: Warning: Enum name collision: 'ENiagaraSphereDistributionMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraSphereDistributionMode.ENiagaraSphereDistributionMode' and '/Game/Migrated/miscelleanous/ENiagaraSphereDistributionMode.ENiagaraSphereDistributionMode'
+[2022.10.28-02.11.08:703][  0]LogEnum: Warning: Enum name collision: 'ENiagaraSphereDistributionMode::NewEnumerator3' is in both '/Niagara/Enums/ENiagaraSphereDistributionMode.ENiagaraSphereDistributionMode' and '/Game/Migrated/miscelleanous/ENiagaraSphereDistributionMode.ENiagaraSphereDistributionMode'
+[2022.10.28-02.11.08:779][  0]LogEnum: Warning: Enum name collision: 'ENiagaraSystemInactiveMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraSystemInactiveMode.ENiagaraSystemInactiveMode' and '/Game/Migrated/miscelleanous/ENiagaraSystemInactiveMode.ENiagaraSystemInactiveMode'
+[2022.10.28-02.11.08:779][  0]LogEnum: Warning: Enum name collision: 'ENiagaraSystemInactiveMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraSystemInactiveMode.ENiagaraSystemInactiveMode' and '/Game/Migrated/miscelleanous/ENiagaraSystemInactiveMode.ENiagaraSystemInactiveMode'
+[2022.10.28-02.11.08:783][  0]LogEnum: Warning: Enum name collision: 'ENiagaraScaleColorMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraScaleColorMode.ENiagaraScaleColorMode' and '/Game/Migrated/miscelleanous/ENiagaraScaleColorMode.ENiagaraScaleColorMode'
+[2022.10.28-02.11.08:783][  0]LogEnum: Warning: Enum name collision: 'ENiagaraScaleColorMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraScaleColorMode.ENiagaraScaleColorMode' and '/Game/Migrated/miscelleanous/ENiagaraScaleColorMode.ENiagaraScaleColorMode'
+[2022.10.28-02.11.08:783][  0]LogEnum: Warning: Enum name collision: 'ENiagaraScaleColorMode::NewEnumerator2' is in both '/Niagara/Enums/ENiagaraScaleColorMode.ENiagaraScaleColorMode' and '/Game/Migrated/miscelleanous/ENiagaraScaleColorMode.ENiagaraScaleColorMode'
+[2022.10.28-02.11.08:803][  0]LogEnum: Warning: Enum name collision: 'ENiagara_AngleInput::NewEnumerator0' is in both '/Game/Migrated/miscelleanous/ENiagara_AngleInput.ENiagara_AngleInput' and '/Niagara/Enums/Angles/ENiagara_AngleInput.ENiagara_AngleInput'
+[2022.10.28-02.11.08:803][  0]LogEnum: Warning: Enum name collision: 'ENiagara_AngleInput::NewEnumerator1' is in both '/Game/Migrated/miscelleanous/ENiagara_AngleInput.ENiagara_AngleInput' and '/Niagara/Enums/Angles/ENiagara_AngleInput.ENiagara_AngleInput'
+[2022.10.28-02.11.08:803][  0]LogEnum: Warning: Enum name collision: 'ENiagara_AngleInput::NewEnumerator2' is in both '/Game/Migrated/miscelleanous/ENiagara_AngleInput.ENiagara_AngleInput' and '/Niagara/Enums/Angles/ENiagara_AngleInput.ENiagara_AngleInput'
+[2022.10.28-02.11.08:821][  0]LogEnum: Warning: Enum name collision: 'ENiagaraFrictionMergeType::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraFrictionMergeType.ENiagaraFrictionMergeType' and '/Game/Migrated/miscelleanous/ENiagaraFrictionMergeType.ENiagaraFrictionMergeType'
+[2022.10.28-02.11.08:821][  0]LogEnum: Warning: Enum name collision: 'ENiagaraFrictionMergeType::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraFrictionMergeType.ENiagaraFrictionMergeType' and '/Game/Migrated/miscelleanous/ENiagaraFrictionMergeType.ENiagaraFrictionMergeType'
+[2022.10.28-02.11.08:821][  0]LogEnum: Warning: Enum name collision: 'ENiagaraFrictionMergeType::NewEnumerator2' is in both '/Niagara/Enums/ENiagaraFrictionMergeType.ENiagaraFrictionMergeType' and '/Game/Migrated/miscelleanous/ENiagaraFrictionMergeType.ENiagaraFrictionMergeType'
+[2022.10.28-02.11.08:821][  0]LogEnum: Warning: Enum name collision: 'ENiagaraFrictionMergeType::NewEnumerator3' is in both '/Niagara/Enums/ENiagaraFrictionMergeType.ENiagaraFrictionMergeType' and '/Game/Migrated/miscelleanous/ENiagaraFrictionMergeType.ENiagaraFrictionMergeType'
+[2022.10.28-02.11.08:944][  0]LogEnum: Warning: Enum name collision: 'ENiagara_ScaleSpriteSize::NewEnumerator0' is in both '/Niagara/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.ENiagara_ScaleSpriteSize' and '/Game/Migrated/miscelleanous/ENiagara_ScaleSpriteSize.ENiagara_ScaleSpriteSize'
+[2022.10.28-02.11.08:944][  0]LogEnum: Warning: Enum name collision: 'ENiagara_ScaleSpriteSize::NewEnumerator1' is in both '/Niagara/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.ENiagara_ScaleSpriteSize' and '/Game/Migrated/miscelleanous/ENiagara_ScaleSpriteSize.ENiagara_ScaleSpriteSize'
+[2022.10.28-02.11.08:944][  0]LogEnum: Warning: Enum name collision: 'ENiagara_ScaleSpriteSize::NewEnumerator2' is in both '/Niagara/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.ENiagara_ScaleSpriteSize' and '/Game/Migrated/miscelleanous/ENiagara_ScaleSpriteSize.ENiagara_ScaleSpriteSize'
+[2022.10.28-02.11.08:944][  0]LogEnum: Warning: Enum name collision: 'ENiagara_ScaleSpriteSize::NewEnumerator3' is in both '/Niagara/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.ENiagara_ScaleSpriteSize' and '/Game/Migrated/miscelleanous/ENiagara_ScaleSpriteSize.ENiagara_ScaleSpriteSize'
+[2022.10.28-02.11.09:084][  0]LogMaterial: Display: Missing cached shadermap for M_FluidNinjaLiveBaseMat in PCD3D_SM5, Default, SM5 (DDC key hash: 69DDF4AAFD50E3A0BEA232ADEB5FB9C7E577E1F4), compiling. 
+[2022.10.28-02.11.09:258][  0]LogMaterial: Display: Missing cached shadermap for M_FluidNinjaLiveLogo in PCD3D_SM5, Default, SM5 (DDC key hash: 1A21EC416375D9751912803D11C3DFEE211CC236), compiling. 
+[2022.10.28-02.11.09:324][  0]LogMaterial: Display: Missing cached shadermap for M_SolidColor in PCD3D_SM5, Default, SM5 (DDC key hash: F7C0D8D5B9E93BFA86FFC8975B4A9469E125E4FF), compiling. 
+[2022.10.28-02.11.09:383][  0]LogMaterial: Display: Missing cached shadermap for M_Null in PCD3D_SM5, Default, SM5 (DDC key hash: 190FB54FD3EDC91049E1A5D837F764DAD5D00287), compiling. 
+[2022.10.28-02.11.09:443][  0]LogMaterial: Display: Missing cached shadermap for M_Advection in PCD3D_SM5, Default, SM5 (DDC key hash: A7C072B6C188223D1B8AA3510CAC0C0947A0E06D), compiling. 
+[2022.10.28-02.11.09:469][  0]LogMaterial: Display: Missing cached shadermap for MI_Advection in PCD3D_SM5, Default, SM5 (DDC key hash: 7CF366358BC4DACA0602EDF17FAF539E613BC389), compiling. 
+[2022.10.28-02.11.09:488][  0]LogMaterial: Display: Missing cached shadermap for M_CollisionPainter in PCD3D_SM5, Default, SM5 (DDC key hash: 35BE2487433A090995A87FBFADE1275BEEBA3717), compiling. 
+[2022.10.28-02.11.09:527][  0]LogMaterial: Display: Missing cached shadermap for MI_CollisionPainter_Dot in PCD3D_SM5, Default, SM5 (DDC key hash: E260CB593C3CBA4BFDD671EF0F43EA2F4572878D), compiling. 
+[2022.10.28-02.11.09:553][  0]LogMaterial: Display: Missing cached shadermap for MI_CollisionPainter_Line in PCD3D_SM5, Default, SM5 (DDC key hash: 7129BCAED3A4735EC52C66E9BA9640C5DF5F01C0), compiling. 
+[2022.10.28-02.11.09:579][  0]LogMaterial: Display: Missing cached shadermap for M_CollisionPainterOffset in PCD3D_SM5, Default, SM5 (DDC key hash: DB6DEA5A65DBE7404C3B208550C301085A0B0817), compiling. 
+[2022.10.28-02.11.09:598][  0]LogMaterial: Display: Missing cached shadermap for M_CompositeAndGradient in PCD3D_SM5, Default, SM5 (DDC key hash: 140086275CC91D6FF3A59744E4D3C6A22FD7416A), compiling. 
+[2022.10.28-02.11.09:618][  0]LogMaterial: Display: Missing cached shadermap for MI_CompositeAndGradient in PCD3D_SM5, Default, SM5 (DDC key hash: 25BB6D6A2C900E6EABA8B629C58B778945B58041), compiling. 
+[2022.10.28-02.11.09:642][  0]LogMaterial: Display: Missing cached shadermap for M_Divergence in PCD3D_SM5, Default, SM5 (DDC key hash: 5E4AF434C08E1E7F35B3DBCF4E8AE69E4D46935D), compiling. 
+[2022.10.28-02.11.09:667][  0]LogMaterial: Display: Missing cached shadermap for MI_Divergence in PCD3D_SM5, Default, SM5 (DDC key hash: CC781014B78576CBB3C2C162A0401C2B5CB744D5), compiling. 
+[2022.10.28-02.11.09:697][  0]LogMaterial: Display: Missing cached shadermap for M_Pressure in PCD3D_SM5, Default, SM5 (DDC key hash: C06476B3672F5C6719021DBBE4D568C7190CDBCC), compiling. 
+[2022.10.28-02.11.09:717][  0]LogMaterial: Display: Missing cached shadermap for MI_Pressure_Solver1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1095A4CEDB3CCECBE27C20365DF99D7151C2277C), compiling. 
+[2022.10.28-02.11.09:738][  0]LogMaterial: Display: Missing cached shadermap for MI_Pressure_Solver2_Step2 in PCD3D_SM5, Default, SM5 (DDC key hash: 20919D64104F2CA7B8B1303771C9B67F0069E1FB), compiling. 
+[2022.10.28-02.11.09:759][  0]LogMaterial: Display: Missing cached shadermap for MI_Advection_UVY in PCD3D_SM5, Default, SM5 (DDC key hash: 3C37AD143810A2A561FE01FFD718D3614936304B), compiling. 
+[2022.10.28-02.11.09:779][  0]LogMaterial: Display: Missing cached shadermap for MI_CollisionPainterOffset_UVY in PCD3D_SM5, Default, SM5 (DDC key hash: AB99211B7DF9F14B3607329A6498CF7A6903BD16), compiling. 
+[2022.10.28-02.11.09:801][  0]LogMaterial: Display: Missing cached shadermap for MI_CompositeAndGradient_UVY in PCD3D_SM5, Default, SM5 (DDC key hash: C9D3A328F6CED3AB145668DF03596B779EE0589A), compiling. 
+[2022.10.28-02.11.09:830][  0]LogMaterial: Display: Missing cached shadermap for MI_Divergence_UVY in PCD3D_SM5, Default, SM5 (DDC key hash: 7D1DE6284C79C9004E6C9053EC9E52296BB73A53), compiling. 
+[2022.10.28-02.11.09:855][  0]LogMaterial: Display: Missing cached shadermap for MI_Pressure_Solver1_UVY in PCD3D_SM5, Default, SM5 (DDC key hash: D0C129699C32E5306F6FB3E02D241C05771F8F4F), compiling. 
+[2022.10.28-02.11.09:873][  0]LogMaterial: Display: Missing cached shadermap for MI_Pressure_Solver2_Step1_RedCh_UVY in PCD3D_SM5, Default, SM5 (DDC key hash: E5A8152161F64557606E6FAEDFBBF45FBC5477F9), compiling. 
+[2022.10.28-02.11.09:892][  0]LogMaterial: Display: Missing cached shadermap for MI_Pressure_Solver2_Step2_GreenCh_UVY in PCD3D_SM5, Default, SM5 (DDC key hash: 700B740F45A3C0CE15CA4F391E73025FE12652C4), compiling. 
+[2022.10.28-02.11.09:928][  0]LogMaterial: Display: Missing cached shadermap for M_NinjaOutput_Basic in PCD3D_SM5, Default, SM5 (DDC key hash: C22BF69151BB5C189733D7A8ADC18CECB3BA4720), compiling. 
+[2022.10.28-02.11.09:976][  0]LogMaterial: Display: Missing cached shadermap for MI_DensityBuffer_Red in PCD3D_SM5, Default, SM5 (DDC key hash: 894B27680411CE581387EF5678294FA974C367C6), compiling. 
+[2022.10.28-02.11.10:017][  0]LogMaterial: Display: Missing cached shadermap for MI_DensityBuffer_RndColors_Translucent_v1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8221F0A6A2CAE0CA97FEBD748CC93879F95B98E7), compiling. 
+[2022.10.28-02.11.10:060][  0]LogMaterial: Display: Missing cached shadermap for MI_DensityBuffer_RndColors_v1 in PCD3D_SM5, Default, SM5 (DDC key hash: D7D66A463E1768B9B943C1C9CB3D4D8276018F71), compiling. 
+[2022.10.28-02.11.10:103][  0]LogMaterial: Display: Missing cached shadermap for MI_DensityBuffer_Translucent in PCD3D_SM5, Default, SM5 (DDC key hash: 355001956D59ED4FA4C26D97DAA3892A1BC82AA1), compiling. 
+[2022.10.28-02.11.10:149][  0]LogMaterial: Display: Missing cached shadermap for M_NinjaOutput_BufferVisualization in PCD3D_SM5, Default, SM5 (DDC key hash: 027C14EBB714999FBA03D0DBA1445DB96057CED5), compiling. 
+[2022.10.28-02.11.10:307][  0]LogMaterial: Display: Missing cached shadermap for MI_DivergenceBuffer in PCD3D_SM5, Default, SM5 (DDC key hash: AA8D3E970515AECF8DF90440183E17ACD9BF8737), compiling. 
+[2022.10.28-02.11.10:529][  0]LogMaterial: Display: Missing cached shadermap for MI_PaintDensityBuffer in PCD3D_SM5, Default, SM5 (DDC key hash: AD1C556E211C0861FB2D123286200C2BF64E7DED), compiling. 
+[2022.10.28-02.11.10:716][  0]LogMaterial: Display: Missing cached shadermap for MI_PaintVelocityBuffer in PCD3D_SM5, Default, SM5 (DDC key hash: 535D2910EBF39BD6A56FB8CBE079D1B9DF5F69FE), compiling. 
+[2022.10.28-02.11.10:895][  0]LogMaterial: Display: Missing cached shadermap for MI_VelocityBuffer in PCD3D_SM5, Default, SM5 (DDC key hash: 7B38F5C86AC0B329EAFF0C4CE274C0B55158EF27), compiling. 
+[2022.10.28-02.11.11:071][  0]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 44E870302AD357365C3940D6920F3801D313166F), compiling. 
+[2022.10.28-02.11.11:276][  0]LogMaterial: Display: Missing cached shadermap for M_UE4Man_ChestLogo in PCD3D_SM5, Default, SM5 (DDC key hash: 897EA10B245F8D6B17B2B00F0372B98CB17B97E1), compiling. 
+[2022.10.28-02.11.11:716][  0]LogEnum: Warning: Enum name collision: 'ENiagaraRandomnessMode::NewEnumerator0' is in both '/Game/Migrated/miscelleanous/ENiagaraRandomnessMode.ENiagaraRandomnessMode' and '/Niagara/Enums/ENiagaraRandomnessMode.ENiagaraRandomnessMode'
+[2022.10.28-02.11.11:716][  0]LogEnum: Warning: Enum name collision: 'ENiagaraRandomnessMode::NewEnumerator1' is in both '/Game/Migrated/miscelleanous/ENiagaraRandomnessMode.ENiagaraRandomnessMode' and '/Niagara/Enums/ENiagaraRandomnessMode.ENiagaraRandomnessMode'
+[2022.10.28-02.11.11:716][  0]LogEnum: Warning: Enum name collision: 'ENiagaraRandomnessMode::NewEnumerator2' is in both '/Game/Migrated/miscelleanous/ENiagaraRandomnessMode.ENiagaraRandomnessMode' and '/Niagara/Enums/ENiagaraRandomnessMode.ENiagaraRandomnessMode'
+[2022.10.28-02.11.11:717][  0]LogEnum: Warning: Enum name collision: 'ENiagaraVector4_Channels::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraVector4_Channels.ENiagaraVector4_Channels' and '/Game/Migrated/miscelleanous/ENiagaraVector4_Channels.ENiagaraVector4_Channels'
+[2022.10.28-02.11.11:718][  0]LogEnum: Warning: Enum name collision: 'ENiagaraVector4_Channels::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraVector4_Channels.ENiagaraVector4_Channels' and '/Game/Migrated/miscelleanous/ENiagaraVector4_Channels.ENiagaraVector4_Channels'
+[2022.10.28-02.11.11:718][  0]LogEnum: Warning: Enum name collision: 'ENiagaraVector4_Channels::NewEnumerator2' is in both '/Niagara/Enums/ENiagaraVector4_Channels.ENiagaraVector4_Channels' and '/Game/Migrated/miscelleanous/ENiagaraVector4_Channels.ENiagaraVector4_Channels'
+[2022.10.28-02.11.11:718][  0]LogEnum: Warning: Enum name collision: 'ENiagaraVector4_Channels::NewEnumerator3' is in both '/Niagara/Enums/ENiagaraVector4_Channels.ENiagaraVector4_Channels' and '/Game/Migrated/miscelleanous/ENiagaraVector4_Channels.ENiagaraVector4_Channels'
+[2022.10.28-02.11.11:753][  0]LogEnum: Warning: Enum name collision: 'ENiagaraRandomnessEvaluation::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraRandomnessEvaluation.ENiagaraRandomnessEvaluation' and '/Game/Migrated/miscelleanous/ENiagaraRandomnessEvaluation.ENiagaraRandomnessEvaluation'
+[2022.10.28-02.11.11:753][  0]LogEnum: Warning: Enum name collision: 'ENiagaraRandomnessEvaluation::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraRandomnessEvaluation.ENiagaraRandomnessEvaluation' and '/Game/Migrated/miscelleanous/ENiagaraRandomnessEvaluation.ENiagaraRandomnessEvaluation'
+[2022.10.28-02.11.11:755][  0]LogEnum: Warning: Enum name collision: 'ENiagara_EmitterStateOptions::NewEnumerator0' is in both '/Niagara/Enums/ENiagara_EmitterStateOptions.ENiagara_EmitterStateOptions' and '/Game/Migrated/miscelleanous/ENiagara_EmitterStateOptions.ENiagara_EmitterStateOptions'
+[2022.10.28-02.11.11:755][  0]LogEnum: Warning: Enum name collision: 'ENiagara_EmitterStateOptions::NewEnumerator1' is in both '/Niagara/Enums/ENiagara_EmitterStateOptions.ENiagara_EmitterStateOptions' and '/Game/Migrated/miscelleanous/ENiagara_EmitterStateOptions.ENiagara_EmitterStateOptions'
+[2022.10.28-02.11.11:755][  0]LogEnum: Warning: Enum name collision: 'ENiagara_EmitterStateOptions::NewEnumerator2' is in both '/Niagara/Enums/ENiagara_EmitterStateOptions.ENiagara_EmitterStateOptions' and '/Game/Migrated/miscelleanous/ENiagara_EmitterStateOptions.ENiagara_EmitterStateOptions'
+[2022.10.28-02.11.11:755][  0]LogEnum: Warning: Enum name collision: 'ENiagara_InfiniteLoopDuration::NewEnumerator0' is in both '/Niagara/Enums/ENiagara_InfiniteLoopDuration.ENiagara_InfiniteLoopDuration' and '/Game/Migrated/miscelleanous/ENiagara_InfiniteLoopDuration.ENiagara_InfiniteLoopDuration'
+[2022.10.28-02.11.11:755][  0]LogEnum: Warning: Enum name collision: 'ENiagara_InfiniteLoopDuration::NewEnumerator1' is in both '/Niagara/Enums/ENiagara_InfiniteLoopDuration.ENiagara_InfiniteLoopDuration' and '/Game/Migrated/miscelleanous/ENiagara_InfiniteLoopDuration.ENiagara_InfiniteLoopDuration'
+[2022.10.28-02.11.11:755][  0]LogEnum: Warning: Enum name collision: 'ENiagaraEmitterLifeCycleMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraEmitterLifeCycleMode.ENiagaraEmitterLifeCycleMode' and '/Game/Migrated/miscelleanous/ENiagaraEmitterLifeCycleMode.ENiagaraEmitterLifeCycleMode'
+[2022.10.28-02.11.11:755][  0]LogEnum: Warning: Enum name collision: 'ENiagaraEmitterLifeCycleMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraEmitterLifeCycleMode.ENiagaraEmitterLifeCycleMode' and '/Game/Migrated/miscelleanous/ENiagaraEmitterLifeCycleMode.ENiagaraEmitterLifeCycleMode'
+[2022.10.28-02.11.11:756][  0]LogEnum: Warning: Enum name collision: 'ENiagaraEmitterScalabilityMode_Limited::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraEmitterScalabilityMode_Limited.ENiagaraEmitterScalabilityMode_Limited' and '/Game/Migrated/miscelleanous/ENiagaraEmitterScalabilityMode_Limited.ENiagaraEmitterScalabilityMode_Limited'
+[2022.10.28-02.11.11:756][  0]LogEnum: Warning: Enum name collision: 'ENiagaraEmitterScalabilityMode_Limited::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraEmitterScalabilityMode_Limited.ENiagaraEmitterScalabilityMode_Limited' and '/Game/Migrated/miscelleanous/ENiagaraEmitterScalabilityMode_Limited.ENiagaraEmitterScalabilityMode_Limited'
+[2022.10.28-02.11.11:756][  0]LogEnum: Warning: Enum name collision: 'ENiagaraExecutionStateManagement::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraExecutionStateManagement.ENiagaraExecutionStateManagement' and '/Game/Migrated/miscelleanous/ENiagaraExecutionStateManagement.ENiagaraExecutionStateManagement'
+[2022.10.28-02.11.11:756][  0]LogEnum: Warning: Enum name collision: 'ENiagaraExecutionStateManagement::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraExecutionStateManagement.ENiagaraExecutionStateManagement' and '/Game/Migrated/miscelleanous/ENiagaraExecutionStateManagement.ENiagaraExecutionStateManagement'
+[2022.10.28-02.11.11:756][  0]LogEnum: Warning: Enum name collision: 'ENiagaraExecutionStateManagement::NewEnumerator2' is in both '/Niagara/Enums/ENiagaraExecutionStateManagement.ENiagaraExecutionStateManagement' and '/Game/Migrated/miscelleanous/ENiagaraExecutionStateManagement.ENiagaraExecutionStateManagement'
+[2022.10.28-02.11.11:756][  0]LogEnum: Warning: Enum name collision: 'ENiagaraExecutionStateManagement::NewEnumerator3' is in both '/Niagara/Enums/ENiagaraExecutionStateManagement.ENiagaraExecutionStateManagement' and '/Game/Migrated/miscelleanous/ENiagaraExecutionStateManagement.ENiagaraExecutionStateManagement'
+[2022.10.28-02.11.11:756][  0]LogEnum: Warning: Enum name collision: 'ENiagaraExecutionStateManagement::NewEnumerator4' is in both '/Niagara/Enums/ENiagaraExecutionStateManagement.ENiagaraExecutionStateManagement' and '/Game/Migrated/miscelleanous/ENiagaraExecutionStateManagement.ENiagaraExecutionStateManagement'
+[2022.10.28-02.11.11:756][  0]LogEnum: Warning: Enum name collision: 'ENiagaraInactiveMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraInactiveMode.ENiagaraInactiveMode' and '/Game/Migrated/miscelleanous/ENiagaraInactiveMode.ENiagaraInactiveMode'
+[2022.10.28-02.11.11:756][  0]LogEnum: Warning: Enum name collision: 'ENiagaraInactiveMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraInactiveMode.ENiagaraInactiveMode' and '/Game/Migrated/miscelleanous/ENiagaraInactiveMode.ENiagaraInactiveMode'
+[2022.10.28-02.11.11:756][  0]LogEnum: Warning: Enum name collision: 'ENiagaraInactiveMode::NewEnumerator2' is in both '/Niagara/Enums/ENiagaraInactiveMode.ENiagaraInactiveMode' and '/Game/Migrated/miscelleanous/ENiagaraInactiveMode.ENiagaraInactiveMode'
+[2022.10.28-02.11.11:790][  0]LogEnum: Warning: Enum name collision: 'ENiagara_ColorInitializationMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagara_ColorInitializationMode.ENiagara_ColorInitializationMode' and '/Game/Migrated/miscelleanous/ENiagara_ColorInitializationMode.ENiagara_ColorInitializationMode'
+[2022.10.28-02.11.11:790][  0]LogEnum: Warning: Enum name collision: 'ENiagara_ColorInitializationMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagara_ColorInitializationMode.ENiagara_ColorInitializationMode' and '/Game/Migrated/miscelleanous/ENiagara_ColorInitializationMode.ENiagara_ColorInitializationMode'
+[2022.10.28-02.11.11:790][  0]LogEnum: Warning: Enum name collision: 'ENiagara_ColorInitializationMode::NewEnumerator2' is in both '/Niagara/Enums/ENiagara_ColorInitializationMode.ENiagara_ColorInitializationMode' and '/Game/Migrated/miscelleanous/ENiagara_ColorInitializationMode.ENiagara_ColorInitializationMode'
+[2022.10.28-02.11.11:790][  0]LogEnum: Warning: Enum name collision: 'ENiagara_ColorInitializationMode::NewEnumerator3' is in both '/Niagara/Enums/ENiagara_ColorInitializationMode.ENiagara_ColorInitializationMode' and '/Game/Migrated/miscelleanous/ENiagara_ColorInitializationMode.ENiagara_ColorInitializationMode'
+[2022.10.28-02.11.11:790][  0]LogEnum: Warning: Enum name collision: 'ENiagara_LifetimeMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagara_LifetimeMode.ENiagara_LifetimeMode' and '/Game/Migrated/miscelleanous/ENiagara_LifetimeMode.ENiagara_LifetimeMode'
+[2022.10.28-02.11.11:790][  0]LogEnum: Warning: Enum name collision: 'ENiagara_LifetimeMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagara_LifetimeMode.ENiagara_LifetimeMode' and '/Game/Migrated/miscelleanous/ENiagara_LifetimeMode.ENiagara_LifetimeMode'
+[2022.10.28-02.11.11:790][  0]LogEnum: Warning: Enum name collision: 'ENiagara_MassInitializationMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagara_MassInitializationMode.ENiagara_MassInitializationMode' and '/Game/Migrated/miscelleanous/ENiagara_MassInitializationMode.ENiagara_MassInitializationMode'
+[2022.10.28-02.11.11:790][  0]LogEnum: Warning: Enum name collision: 'ENiagara_MassInitializationMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagara_MassInitializationMode.ENiagara_MassInitializationMode' and '/Game/Migrated/miscelleanous/ENiagara_MassInitializationMode.ENiagara_MassInitializationMode'
+[2022.10.28-02.11.11:790][  0]LogEnum: Warning: Enum name collision: 'ENiagara_MassInitializationMode::NewEnumerator3' is in both '/Niagara/Enums/ENiagara_MassInitializationMode.ENiagara_MassInitializationMode' and '/Game/Migrated/miscelleanous/ENiagara_MassInitializationMode.ENiagara_MassInitializationMode'
+[2022.10.28-02.11.11:790][  0]LogEnum: Warning: Enum name collision: 'ENiagara_PositionInitializationMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagara_PositionInitializationMode.ENiagara_PositionInitializationMode' and '/Game/Migrated/miscelleanous/ENiagara_PositionInitializationMode.ENiagara_PositionInitializationMode'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagara_PositionInitializationMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagara_PositionInitializationMode.ENiagara_PositionInitializationMode' and '/Game/Migrated/miscelleanous/ENiagara_PositionInitializationMode.ENiagara_PositionInitializationMode'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagara_PositionInitializationMode::NewEnumerator2' is in both '/Niagara/Enums/ENiagara_PositionInitializationMode.ENiagara_PositionInitializationMode' and '/Game/Migrated/miscelleanous/ENiagara_PositionInitializationMode.ENiagara_PositionInitializationMode'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagara_SizeScaleMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode' and '/Game/Migrated/miscelleanous/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagara_SizeScaleMode::NewEnumerator3' is in both '/Niagara/Enums/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode' and '/Game/Migrated/miscelleanous/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagara_SizeScaleMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode' and '/Game/Migrated/miscelleanous/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagara_SizeScaleMode::NewEnumerator4' is in both '/Niagara/Enums/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode' and '/Game/Migrated/miscelleanous/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagara_SizeScaleMode::NewEnumerator2' is in both '/Niagara/Enums/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode' and '/Game/Migrated/miscelleanous/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagara_SpriteRotationMode::NewEnumerator3' is in both '/Niagara/Enums/ENiagara_SpriteRotationMode.ENiagara_SpriteRotationMode' and '/Game/Migrated/miscelleanous/ENiagara_SpriteRotationMode.ENiagara_SpriteRotationMode'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagara_SpriteRotationMode::NewEnumerator2' is in both '/Niagara/Enums/ENiagara_SpriteRotationMode.ENiagara_SpriteRotationMode' and '/Game/Migrated/miscelleanous/ENiagara_SpriteRotationMode.ENiagara_SpriteRotationMode'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagara_SpriteRotationMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagara_SpriteRotationMode.ENiagara_SpriteRotationMode' and '/Game/Migrated/miscelleanous/ENiagara_SpriteRotationMode.ENiagara_SpriteRotationMode'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagara_SpriteRotationMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagara_SpriteRotationMode.ENiagara_SpriteRotationMode' and '/Game/Migrated/miscelleanous/ENiagara_SpriteRotationMode.ENiagara_SpriteRotationMode'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagara_UVFlippingMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagara_UVFlippingMode.ENiagara_UVFlippingMode' and '/Game/Migrated/miscelleanous/ENiagara_UVFlippingMode.ENiagara_UVFlippingMode'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagara_UVFlippingMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagara_UVFlippingMode.ENiagara_UVFlippingMode' and '/Game/Migrated/miscelleanous/ENiagara_UVFlippingMode.ENiagara_UVFlippingMode'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagara_UVFlippingMode::NewEnumerator2' is in both '/Niagara/Enums/ENiagara_UVFlippingMode.ENiagara_UVFlippingMode' and '/Game/Migrated/miscelleanous/ENiagara_UVFlippingMode.ENiagara_UVFlippingMode'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagara_UVFlippingMode::NewEnumerator3' is in both '/Niagara/Enums/ENiagara_UVFlippingMode.ENiagara_UVFlippingMode' and '/Game/Migrated/miscelleanous/ENiagara_UVFlippingMode.ENiagara_UVFlippingMode'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagara_UVFlippingMode::NewEnumerator4' is in both '/Niagara/Enums/ENiagara_UVFlippingMode.ENiagara_UVFlippingMode' and '/Game/Migrated/miscelleanous/ENiagara_UVFlippingMode.ENiagara_UVFlippingMode'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagaraChannelCorrelation::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraChannelCorrelation.ENiagaraChannelCorrelation' and '/Game/Migrated/miscelleanous/ENiagaraChannelCorrelation.ENiagaraChannelCorrelation'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagaraChannelCorrelation::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraChannelCorrelation.ENiagaraChannelCorrelation' and '/Game/Migrated/miscelleanous/ENiagaraChannelCorrelation.ENiagaraChannelCorrelation'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagaraChannelCorrelation::NewEnumerator2' is in both '/Niagara/Enums/ENiagaraChannelCorrelation.ENiagaraChannelCorrelation' and '/Game/Migrated/miscelleanous/ENiagaraChannelCorrelation.ENiagaraChannelCorrelation'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagara_UnsetDirectSet::NewEnumerator0' is in both '/Niagara/Enums/Ribbons/ENiagara_UnsetDirectSet.ENiagara_UnsetDirectSet' and '/Game/Migrated/miscelleanous/ENiagara_UnsetDirectSet.ENiagara_UnsetDirectSet'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagara_UnsetDirectSet::NewEnumerator1' is in both '/Niagara/Enums/Ribbons/ENiagara_UnsetDirectSet.ENiagara_UnsetDirectSet' and '/Game/Migrated/miscelleanous/ENiagara_UnsetDirectSet.ENiagara_UnsetDirectSet'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagara_UnsetDirectSetRandom::NewEnumerator0' is in both '/Niagara/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.ENiagara_UnsetDirectSetRandom' and '/Game/Migrated/miscelleanous/ENiagara_UnsetDirectSetRandom.ENiagara_UnsetDirectSetRandom'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagara_UnsetDirectSetRandom::NewEnumerator1' is in both '/Niagara/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.ENiagara_UnsetDirectSetRandom' and '/Game/Migrated/miscelleanous/ENiagara_UnsetDirectSetRandom.ENiagara_UnsetDirectSetRandom'
+[2022.10.28-02.11.11:791][  0]LogEnum: Warning: Enum name collision: 'ENiagara_UnsetDirectSetRandom::NewEnumerator3' is in both '/Niagara/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.ENiagara_UnsetDirectSetRandom' and '/Game/Migrated/miscelleanous/ENiagara_UnsetDirectSetRandom.ENiagara_UnsetDirectSetRandom'
+[2022.10.28-02.11.11:822][  0]LogEnum: Warning: Enum name collision: 'ENiagaraExpansionMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraExpansionMode.ENiagaraExpansionMode' and '/Game/Migrated/miscelleanous/ENiagaraExpansionMode.ENiagaraExpansionMode'
+[2022.10.28-02.11.11:822][  0]LogEnum: Warning: Enum name collision: 'ENiagaraExpansionMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraExpansionMode.ENiagaraExpansionMode' and '/Game/Migrated/miscelleanous/ENiagaraExpansionMode.ENiagaraExpansionMode'
+[2022.10.28-02.11.11:822][  0]LogEnum: Warning: Enum name collision: 'ENiagaraExpansionMode::NewEnumerator2' is in both '/Niagara/Enums/ENiagaraExpansionMode.ENiagaraExpansionMode' and '/Game/Migrated/miscelleanous/ENiagaraExpansionMode.ENiagaraExpansionMode'
+[2022.10.28-02.11.11:822][  0]LogEnum: Warning: Enum name collision: 'ENiagaraSphereDistributionMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraSphereDistributionMode.ENiagaraSphereDistributionMode' and '/Game/Migrated/miscelleanous/ENiagaraSphereDistributionMode.ENiagaraSphereDistributionMode'
+[2022.10.28-02.11.11:822][  0]LogEnum: Warning: Enum name collision: 'ENiagaraSphereDistributionMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraSphereDistributionMode.ENiagaraSphereDistributionMode' and '/Game/Migrated/miscelleanous/ENiagaraSphereDistributionMode.ENiagaraSphereDistributionMode'
+[2022.10.28-02.11.11:822][  0]LogEnum: Warning: Enum name collision: 'ENiagaraSphereDistributionMode::NewEnumerator3' is in both '/Niagara/Enums/ENiagaraSphereDistributionMode.ENiagaraSphereDistributionMode' and '/Game/Migrated/miscelleanous/ENiagaraSphereDistributionMode.ENiagaraSphereDistributionMode'
+[2022.10.28-02.11.12:193][  0]LogEnum: Warning: Enum name collision: 'ENiagaraSystemInactiveMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraSystemInactiveMode.ENiagaraSystemInactiveMode' and '/Game/Migrated/miscelleanous/ENiagaraSystemInactiveMode.ENiagaraSystemInactiveMode'
+[2022.10.28-02.11.12:193][  0]LogEnum: Warning: Enum name collision: 'ENiagaraSystemInactiveMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraSystemInactiveMode.ENiagaraSystemInactiveMode' and '/Game/Migrated/miscelleanous/ENiagaraSystemInactiveMode.ENiagaraSystemInactiveMode'
+[2022.10.28-02.11.12:196][  0]LogEnum: Warning: Enum name collision: 'ENiagaraScaleColorMode::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraScaleColorMode.ENiagaraScaleColorMode' and '/Game/Migrated/miscelleanous/ENiagaraScaleColorMode.ENiagaraScaleColorMode'
+[2022.10.28-02.11.12:196][  0]LogEnum: Warning: Enum name collision: 'ENiagaraScaleColorMode::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraScaleColorMode.ENiagaraScaleColorMode' and '/Game/Migrated/miscelleanous/ENiagaraScaleColorMode.ENiagaraScaleColorMode'
+[2022.10.28-02.11.12:196][  0]LogEnum: Warning: Enum name collision: 'ENiagaraScaleColorMode::NewEnumerator2' is in both '/Niagara/Enums/ENiagaraScaleColorMode.ENiagaraScaleColorMode' and '/Game/Migrated/miscelleanous/ENiagaraScaleColorMode.ENiagaraScaleColorMode'
+[2022.10.28-02.11.12:297][  0]LogEnum: Warning: Enum name collision: 'ENiagara_AngleInput::NewEnumerator0' is in both '/Game/Migrated/miscelleanous/ENiagara_AngleInput.ENiagara_AngleInput' and '/Niagara/Enums/Angles/ENiagara_AngleInput.ENiagara_AngleInput'
+[2022.10.28-02.11.12:297][  0]LogEnum: Warning: Enum name collision: 'ENiagara_AngleInput::NewEnumerator1' is in both '/Game/Migrated/miscelleanous/ENiagara_AngleInput.ENiagara_AngleInput' and '/Niagara/Enums/Angles/ENiagara_AngleInput.ENiagara_AngleInput'
+[2022.10.28-02.11.12:298][  0]LogEnum: Warning: Enum name collision: 'ENiagara_AngleInput::NewEnumerator2' is in both '/Game/Migrated/miscelleanous/ENiagara_AngleInput.ENiagara_AngleInput' and '/Niagara/Enums/Angles/ENiagara_AngleInput.ENiagara_AngleInput'
+[2022.10.28-02.11.12:310][  0]LogEnum: Warning: Enum name collision: 'ENiagaraFrictionMergeType::NewEnumerator0' is in both '/Niagara/Enums/ENiagaraFrictionMergeType.ENiagaraFrictionMergeType' and '/Game/Migrated/miscelleanous/ENiagaraFrictionMergeType.ENiagaraFrictionMergeType'
+[2022.10.28-02.11.12:310][  0]LogEnum: Warning: Enum name collision: 'ENiagaraFrictionMergeType::NewEnumerator1' is in both '/Niagara/Enums/ENiagaraFrictionMergeType.ENiagaraFrictionMergeType' and '/Game/Migrated/miscelleanous/ENiagaraFrictionMergeType.ENiagaraFrictionMergeType'
+[2022.10.28-02.11.12:310][  0]LogEnum: Warning: Enum name collision: 'ENiagaraFrictionMergeType::NewEnumerator2' is in both '/Niagara/Enums/ENiagaraFrictionMergeType.ENiagaraFrictionMergeType' and '/Game/Migrated/miscelleanous/ENiagaraFrictionMergeType.ENiagaraFrictionMergeType'
+[2022.10.28-02.11.12:310][  0]LogEnum: Warning: Enum name collision: 'ENiagaraFrictionMergeType::NewEnumerator3' is in both '/Niagara/Enums/ENiagaraFrictionMergeType.ENiagaraFrictionMergeType' and '/Game/Migrated/miscelleanous/ENiagaraFrictionMergeType.ENiagaraFrictionMergeType'
+[2022.10.28-02.11.12:861][  0]LogEnum: Warning: Enum name collision: 'ENiagara_ScaleSpriteSize::NewEnumerator0' is in both '/Niagara/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.ENiagara_ScaleSpriteSize' and '/Game/Migrated/miscelleanous/ENiagara_ScaleSpriteSize.ENiagara_ScaleSpriteSize'
+[2022.10.28-02.11.12:861][  0]LogEnum: Warning: Enum name collision: 'ENiagara_ScaleSpriteSize::NewEnumerator1' is in both '/Niagara/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.ENiagara_ScaleSpriteSize' and '/Game/Migrated/miscelleanous/ENiagara_ScaleSpriteSize.ENiagara_ScaleSpriteSize'
+[2022.10.28-02.11.12:861][  0]LogEnum: Warning: Enum name collision: 'ENiagara_ScaleSpriteSize::NewEnumerator2' is in both '/Niagara/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.ENiagara_ScaleSpriteSize' and '/Game/Migrated/miscelleanous/ENiagara_ScaleSpriteSize.ENiagara_ScaleSpriteSize'
+[2022.10.28-02.11.12:861][  0]LogEnum: Warning: Enum name collision: 'ENiagara_ScaleSpriteSize::NewEnumerator3' is in both '/Niagara/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.ENiagara_ScaleSpriteSize' and '/Game/Migrated/miscelleanous/ENiagara_ScaleSpriteSize.ENiagara_ScaleSpriteSize'
+[2022.10.28-02.11.13:368][  0]LogMaterial: Display: Missing cached shadermap for MI_NinjaOutput_Fluorescent in PCD3D_SM5, Default, SM5 (DDC key hash: D2A872BA9F7C4BD20A8FDCCE7030D6762E3D32A2), compiling. 
+[2022.10.28-02.11.13:433][  0]LogMaterial: Display: Missing cached shadermap for M_VolumeFog in PCD3D_SM5, Default, SM5 (DDC key hash: 91105D3D780B3E8BC4A5827D618FE757A72104FC), compiling. 
+[2022.10.28-02.11.13:755][  0]LogMaterial: Display: Missing cached shadermap for MI_VolumeFog_Shrine in PCD3D_SM5, Default, SM5 (DDC key hash: 3FBF527A22CE5AB0345A9D7E809D1838DBD06408), compiling. 
+[2022.10.28-02.11.16:866][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_RUNES_2'.
+[2022.10.28-02.11.16:866][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.28-02.11.16:866][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-02.11.16:867][  0]LogAIModule: Creating AISystem for world MAP_RUNES_2
+[2022.10.28-02.11.16:879][  0]LogNiagara: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\Migrated\flamethrower_og3.uasset: Function call is stale and needs to be refreshed. - Node: Random Vector in Cone - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Random Vector in Cone - 
+Error compiling input for set node. - Node: Map Set Pin: Local.Module.ConeVector - 
+Function call is stale and needs to be refreshed. - Node: Random Vector in Cone - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Random Vector in Cone - 
+Error compiling input on Dot node. - Node: Dot Pin: B - 
+Function call is stale and needs to be refreshed. - Node: Random Range Float - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Random Range Float - 
+Error compiling input for convert node. - Node: Break Vector 2D Pin: Input 1 - 
+[2022.10.28-02.11.16:882][  0]LogNiagara: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\Migrated\flamethrower_og3.uasset: Function call is stale and needs to be refreshed. - Node: Random Range Float - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Random Range Float - 
+Error compiling input for convert node. - Node: Break Vector 2D Pin: Input 1 - 
+[2022.10.28-02.11.16:887][  0]LogNiagara: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\Migrated\flamethrower_og3.uasset: Function call is stale and needs to be refreshed. - Node: Random Vector in Cone - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Random Vector in Cone - 
+Error compiling input for set node. - Node: Map Set Pin: Local.Module.ConeVector - 
+Function call is stale and needs to be refreshed. - Node: Random Vector in Cone - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Random Vector in Cone - 
+Error compiling input on Dot node. - Node: Dot Pin: B - 
+Function call is stale and needs to be refreshed. - Node: Random Range Float - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Random Range Float - 
+Error compiling input for convert node. - Node: Break Vector 2D Pin: Input 1 - 
+[2022.10.28-02.11.16:890][  0]LogNiagara: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\Migrated\flamethrower_og3.uasset: Function call is stale and needs to be refreshed. - Node: Random Range Float - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Random Range Float - 
+Error compiling input for convert node. - Node: Break Vector 2D Pin: Input 1 - 
+[2022.10.28-02.11.16:953][  0]LogNiagara: Compiling System NiagaraSystem /Game/Migrated/flamethrower_og3.flamethrower_og3 took 0.636683 sec, no shader worker used.
+[2022.10.28-02.11.17:014][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/TopDown/mesh) is flushing async loading
+[2022.10.28-02.11.17:014][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.10.28-02.11.17:833][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': invisible_sphere_C /Game/TopDown/MAP_RUNES_2.MAP_RUNES_2:PersistentLevel.invisible_sphere_C_1
+[2022.10.28-02.11.17:833][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Sphere': invisible_sphere_C /Game/TopDown/MAP_RUNES_2.MAP_RUNES_2:PersistentLevel.invisible_sphere_C_1
+[2022.10.28-02.11.18:048][  0]LogMaterial: Warning: MM_Master_Flora: Requesting an invalid TextureIndex! (4294967295 / 4)
+[2022.10.28-02.11.18:116][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/TopDown/light) is flushing async loading
+[2022.10.28-02.11.18:149][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/TopDown/landscape) is flushing async loading
+[2022.10.28-02.11.18:445][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.28-02.11.18:621][  0]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2022.10.28-02.11.18:623][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.28-02.11.18:624][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.968ms to complete.
+[2022.10.28-02.11.18:624][  0]LogFileHelpers: Loading map 'MAP_RUNES_2' took 15.200
+[2022.10.28-02.11.18:690][  0]LogUnrealEdMisc: Total Editor Startup Time, took 29.601
+[2022.10.28-02.11.18:690][  0]LogShaderCompilers: Display: ================================================
+[2022.10.28-02.11.18:690][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.28-02.11.18:690][  0]LogShaderCompilers: Display: Total job queries 1019, among them cache hits 0 (0.00%)
+[2022.10.28-02.11.18:690][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.10.28-02.11.18:690][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.10.28-02.11.18:690][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.28-02.11.18:690][  0]LogShaderCompilers: Display: Shaders Compiled: 1019
+[2022.10.28-02.11.18:690][  0]LogShaderCompilers: Display: Jobs assigned 90, completed 0 (0.00%)
+[2022.10.28-02.11.18:690][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.10 s
+[2022.10.28-02.11.18:690][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.10.28-02.11.18:691][  0]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 10.00 jobs/batch
+[2022.10.28-02.11.18:691][  0]LogShaderCompilers: Display: ================================================
+[2022.10.28-02.11.18:863][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.28-02.11.18:863][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.28-02.11.18:864][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.28-02.11.18:866][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.28-02.11.18:867][  0]LogSlate: The tab "BottomLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.28-02.11.18:867][  0]LogSlate: The tab "BottomLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.28-02.11.18:893][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-02.11.18:909][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-02.11.18:923][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-02.11.18:940][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-02.11.19:022][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.10.28-02.11.19:022][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.28-02.11.19:024][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.10.28-02.11.19:024][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.28-02.11.19:025][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.10.28-02.11.19:026][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.28-02.11.19:027][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.10.28-02.11.19:027][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.28-02.11.19:029][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.10.28-02.11.19:029][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.28-02.11.19:031][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.10.28-02.11.19:031][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.28-02.11.19:033][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.10.28-02.11.19:033][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.28-02.11.19:034][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.10.28-02.11.19:034][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.28-02.11.19:036][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.10.28-02.11.19:036][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.28-02.11.19:038][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.10.28-02.11.19:038][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.28-02.11.19:038][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.10.28-02.11.19:326][  0]LogSlate: The tab "TopRightModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.28-02.11.19:369][  0]LogSlate: The tab "TopRightModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.28-02.11.19:510][  0]LogSlate: Took 0.000569 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.28-02.11.19:513][  0]LogSlate: Took 0.000556 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.28-02.11.19:521][  0]LogSlate: Took 0.000445 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.28-02.11.19:526][  0]LogSlate: Took 0.000728 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.28-02.11.19:529][  0]LogSlate: Took 0.000519 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.28-02.11.19:595][  0]LogViewport: Scene viewport resized to 1521x585, mode Windowed.
+[2022.10.28-02.11.19:621][  0]LogSourceControl: Attempting 'p4 client -o Xavier_Marz_DESKTOP-UPE8208_6055'
+[2022.10.28-02.11.22:125][  0]LogStall: Startup...
+[2022.10.28-02.11.22:129][  0]LogStall: Startup complete.
+[2022.10.28-02.11.22:194][  0]LogLoad: (Engine Initialization) Total time: 33.11 seconds
+[2022.10.28-02.11.22:194][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.28-02.11.22:518][  0]SourceControl: CommandMessage Command: Connect, Info: Client Xavier_Marz_DESKTOP-UPE8208_6055
+[2022.10.28-02.11.22:518][  0]SourceControl: CommandMessage Command: Connect, Info: Update 2022/10/24 20:49:57
+[2022.10.28-02.11.22:518][  0]SourceControl: CommandMessage Command: Connect, Info: Access 2022/10/27 22:07:49
+[2022.10.28-02.11.22:518][  0]SourceControl: CommandMessage Command: Connect, Info: Owner Xavier_Marz
+[2022.10.28-02.11.22:518][  0]SourceControl: CommandMessage Command: Connect, Info: Host DESKTOP-UPE8208
+[2022.10.28-02.11.22:519][  0]SourceControl: CommandMessage Command: Connect, Info: Description Created by Xavier_Marz.
+
+[2022.10.28-02.11.22:519][  0]SourceControl: CommandMessage Command: Connect, Info: Root C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055
+[2022.10.28-02.11.22:519][  0]SourceControl: CommandMessage Command: Connect, Info: Options noallwrite noclobber nocompress unlocked nomodtime normdir
+[2022.10.28-02.11.22:519][  0]SourceControl: CommandMessage Command: Connect, Info: SubmitOptions submitunchanged
+[2022.10.28-02.11.22:519][  0]SourceControl: CommandMessage Command: Connect, Info: LineEnd local
+[2022.10.28-02.11.22:519][  0]SourceControl: CommandMessage Command: Connect, Info: Stream //streamsDepot/mainline
+[2022.10.28-02.11.22:519][  0]SourceControl: CommandMessage Command: Connect, Info: View0 //streamsDepot/mainline/... //Xavier_Marz_DESKTOP-UPE8208_6055/...
+[2022.10.28-02.11.22:519][  0]SourceControl: CommandMessage Command: Connect, Info: Type writeable
+[2022.10.28-02.11.22:519][  0]SourceControl: CommandMessage Command: Connect, Info: Backup enable
+[2022.10.28-02.11.22:519][  0]SourceControl: CommandMessage Command: Connect, Info: specFormatted 
+[2022.10.28-02.11.22:519][  0]SourceControl: CommandMessage Command: Connect, Info: func client-FstatInfo
+[2022.10.28-02.11.22:519][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.28-02.11.22:776][  0]LogSourceControl: Attempting 'p4 fstat -Or C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Config/DefaultEngine.ini'
+[2022.10.28-02.11.23:070][  1]LogNiagara: Compiling System NiagaraSystem /Game/TopDown/characters/elemental_mage_/fireball_ledgit2.fireball_ledgit2 took 8.872840 sec, no shader worker used.
+[2022.10.28-02.11.23:574][  2]LogAssetRegistry: Asset discovery search completed in 29.5625 seconds
+[2022.10.28-02.11.23:616][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.10.28-02.11.23:641][  2]LogNiagara: Compiling System NiagaraSystem /Game/TopDown/characters/elemental_mage_/ice_pilliar/pillar_creation.pillar_creation took 9.312862 sec, no shader worker used.
+[2022.10.28-02.11.23:738][  2]LogSlate: Took 0.000696 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.28-02.11.23:738][  2]LogSlate: Took 0.000602 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.28-02.11.23:918][  3]LogNiagara: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\Migrated\flamethrower_og4.uasset: Function call is stale and needs to be refreshed. - Node: Random Vector in Cone - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Random Vector in Cone - 
+Error compiling input for set node. - Node: Map Set Pin: Local.Module.ConeVector - 
+Function call is stale and needs to be refreshed. - Node: Random Vector in Cone - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Random Vector in Cone - 
+Error compiling input on Dot node. - Node: Dot Pin: B - 
+Function call is stale and needs to be refreshed. - Node: Random Range Float - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Random Range Float - 
+Error compiling input for convert node. - Node: Break Vector 2D Pin: Input 1 - 
+[2022.10.28-02.11.23:920][  3]LogNiagara: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\Migrated\flamethrower_og4.uasset: Function call is stale and needs to be refreshed. - Node: Random Range Float - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Random Range Float - 
+Error compiling input for convert node. - Node: Break Vector 2D Pin: Input 1 - 
+[2022.10.28-02.11.23:922][  3]LogNiagara: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\Migrated\flamethrower_og4.uasset: Function call is stale and needs to be refreshed. - Node: Random Vector in Cone - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Random Vector in Cone - 
+Error compiling input for set node. - Node: Map Set Pin: Local.Module.ConeVector - 
+Function call is stale and needs to be refreshed. - Node: Random Vector in Cone - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Random Vector in Cone - 
+Error compiling input on Dot node. - Node: Dot Pin: B - 
+Function call is stale and needs to be refreshed. - Node: Random Range Float - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Random Range Float - 
+Error compiling input for convert node. - Node: Break Vector 2D Pin: Input 1 - 
+[2022.10.28-02.11.23:925][  3]LogNiagara: Warning: [AssetLog] C:\Users\xavie\Perforce\Xavier_Marz_DESKTOP-UPE8208_6055\simulation_production\Content\Migrated\flamethrower_og4.uasset: Function call is stale and needs to be refreshed. - Node: Random Range Float - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Random Range Float - 
+Error compiling input for convert node. - Node: Break Vector 2D Pin: Input 1 - 
+[2022.10.28-02.11.23:971][  3]LogNiagara: Compiling System NiagaraSystem /Game/Migrated/flamethrower_og4.flamethrower_og4 took 9.187066 sec, no shader worker used.
+[2022.10.28-02.11.24:155][  4]LogNiagara: Compiling System NiagaraSystem /Game/TopDown/characters/elemental_mage_/ice_clone_niag.ice_clone_niag took 8.618875 sec, no shader worker used.
+[2022.10.28-02.11.25:167][ 25]LogSourceControl: Attempting 'p4 fstat -Or C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/array_of_array.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/blanc.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/bloublab.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/case.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/end_turn_bhays.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/hexagone.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/hexagone_3d.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/hexagone_gang.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/hexagone_mat.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/landscape.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/light.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/MAP_RUNES_2.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/mesh.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/miscelleanous.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/move.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/move_at_certain_speed.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/online_controller.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/pawn_material.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/pawnn.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/pos+distance_from_begin_and_end.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/prout.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/Sans_titre-1.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/test.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/top_down_camera.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/Untitled.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/Untitled2.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/Untitled3_lol.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/X_and_Y.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/X_and_Y_array.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/X_Y_and_array.uasset'
+[2022.10.28-02.11.46:764][701]LogSlate: Window 'Message Log' being destroyed
+[2022.10.28-02.11.46:779][701]LogSlate: Window 'Message Log' being destroyed
+[2022.10.28-02.12.01:428][406]Cmd: DELETE
+[2022.10.28-02.12.01:428][406]Cmd: ACTOR DELETE
+[2022.10.28-02.12.01:440][406]LogEditorActor: Deleted Actor: NinjaLive_C
+[2022.10.28-02.12.01:442][406]LogEditorActor: Deleted Actor: NinjaLive_C
+[2022.10.28-02.12.01:444][406]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.28-02.12.01:446][406]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.28-02.12.01:466][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.10.28-02.12.01:471][406]LogEditorActor: Deleted 4 Actors (0.043 secs)
+[2022.10.28-02.12.01:564][409]LogSourceControl: Attempting 'p4 fstat -Or C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/MAP_RUNES_2.umap'
+[2022.10.28-02.12.02:572][433]Cmd: DELETE
+[2022.10.28-02.12.02:572][433]Cmd: ACTOR DELETE
+[2022.10.28-02.12.07:184][618]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.28-02.12.07:198][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.28-02.12.07:198][618]PIE: New page: PIE session: MAP_RUNES_2 (Oct 27, 2022, 6:12:07 PM)
+[2022.10.28-02.12.07:202][618]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.10.28-02.12.07:202][618]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.28-02.12.07:203][618]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_MAP_RUNES_2
+[2022.10.28-02.12.07:209][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005950s)
+[2022.10.28-02.12.07:209][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/MAP_RUNES_2.MAP_RUNES_2 to /Game/TopDown/UEDPIE_0_MAP_RUNES_2.MAP_RUNES_2 (0.006080s)
+[2022.10.28-02.12.07:209][618]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.28-02.12.07:209][618]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-02.12.07:209][618]LogAIModule: Creating AISystem for world MAP_RUNES_2
+[2022.10.28-02.12.07:210][618]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2022.10.28-02.12.07:228][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.10.28-02.12.07:229][618]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.28-02.12.07:229][618]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.28-02.12.07:229][618]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.28-02.12.07:229][618]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.28-02.12.07:229][618]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.28-02.12.07:229][618]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.28-02.12.07:229][618]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.28-02.12.07:229][618]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.28-02.12.07:229][618]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.28-02.12.07:230][618]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.28-02.12.07:230][618]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.28-02.12.07:230][618]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.28-02.12.07:233][618]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.28-02.12.07:280][618]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud Stinger Wireless)
+[2022.10.28-02.12.07:281][618]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.28-02.12.07:281][618]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.28-02.12.07:281][618]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.28-02.12.07:283][618]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.10.28-02.12.07:283][618]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.10.28-02.12.07:286][618]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.10.28-02.12.07:286][618]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.10.28-02.12.07:286][618]LogInit: FAudioDevice initialized.
+[2022.10.28-02.12.07:286][618]LogAudio: Display: Audio Device (ID: 2) registered with world 'MAP_RUNES_2'.
+[2022.10.28-02.12.07:312][618]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2022.10.28-02.12.07:470][618]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_MAP_RUNES_2.MAP_RUNES_2 up for play (max tick rate 0) at 2022.10.27-22.12.07
+[2022.10.28-02.12.07:472][618]LogWorld: Bringing up level for play took: 0.003108
+[2022.10.28-02.12.07:475][618]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2022.10.28-02.12.07:511][618]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.10.28-02.12.07:512][618]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.10.28-02.12.07:512][618]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.10.28-02.12.07:512][618]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2022.10.28-02.12.07:512][618]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.28-02.12.07:512][618]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2022.10.28-02.12.07:516][618]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.10.28-02.12.07:516][618]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.28-02.12.07:729][618]PIE: Server logged in
+[2022.10.28-02.12.07:730][618]PIE: Play in editor total start time 0.533 seconds.
+[2022.10.28-02.12.08:479][622]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.08:480][622]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.08:480][622]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.08:510][623]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.08:570][625]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.08:614][627]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.08:665][629]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.08:722][631]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.08:750][632]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.08:800][634]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.08:851][636]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.08:902][638]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.08:947][640]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.08:997][642]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.09:052][644]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.09:163][649]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.09:209][651]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.09:411][660]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.09:454][662]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.09:502][664]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.09:548][666]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.09:594][668]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.09:663][671]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.09:712][673]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.09:758][675]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.09:803][677]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.09:851][679]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.09:898][681]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.09:969][684]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.10:016][686]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.10:160][688]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.10:160][688]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.10:161][688]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.10:211][690]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.10:262][692]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.10:314][694]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.10:360][696]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.10:410][698]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.10:455][699]LogLinker: Warning: Failed to load '/Game/Animated_RPG_Icons/Static_icons/force/Textures/T_force_sprint': Can't find file.
+[2022.10.28-02.12.10:455][699]LogLinker: Warning: Failed to load '/Game/Animated_RPG_Icons/Static_icons/force/Textures/T_force_sprint': Can't find file.
+[2022.10.28-02.12.10:455][699]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Animated_RPG_Icons/Static_icons/force/Textures/T_force_sprint.T_force_sprint'
+[2022.10.28-02.12.10:470][700]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.10:573][701]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.10:574][701]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.10:599][702]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.10:653][704]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.10:705][706]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.10:762][708]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.10:828][710]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.10:859][711]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.10:899][713]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.10:964][716]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.11:007][718]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.11:064][720]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.11:105][722]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.11:167][725]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.11:196][726]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.11:267][729]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.11:311][731]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.11:350][733]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.11:411][736]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.11:461][738]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.11:508][740]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.11:568][742]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.11:596][743]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.11:652][745]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.11:701][747]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.11:768][750]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.11:811][752]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.11:879][754]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.11:896][755]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.11:950][757]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.12:218][767]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.12:262][769]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.12:306][771]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.12:354][773]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.12:404][775]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.12:455][777]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.12:506][779]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.12:550][781]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.12:650][782]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.12:651][782]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.12:708][784]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.12:755][786]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.12:799][788]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.12:849][790]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.12:902][792]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.12:952][794]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.13:066][796]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.13:067][796]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.13:116][798]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.13:172][800]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.13:216][802]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.13:267][804]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.13:298][805]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.13:348][807]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.13:397][809]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.13:447][811]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.13:503][813]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.13:555][815]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.13:654][817]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.13:655][817]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.13:703][820]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.13:755][823]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.13:814][826]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.13:860][828]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.13:899][830]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.13:951][832]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.13:997][834]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.14:067][837]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.14:483][857]LogBlueprintUserMessages: [elemental_mage_C_1] Server: boom
+[2022.10.28-02.12.14:483][857]LogBlueprintUserMessages: [elemental_mage_C_1] Server: boom
+[2022.10.28-02.12.14:483][857]LogBlueprintUserMessages: [elemental_mage_C_1] Server: boom
+[2022.10.28-02.12.14:484][857]LogBlueprintUserMessages: [elemental_mage_C_1] Server: boom
+[2022.10.28-02.12.14:484][857]LogBlueprintUserMessages: [elemental_mage_C_1] Server: boom
+[2022.10.28-02.12.14:485][857]LogBlueprintUserMessages: [elemental_mage_C_1] Server: boom
+[2022.10.28-02.12.14:605][863]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.14:648][865]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.14:701][868]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.14:749][871]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.14:796][874]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.14:851][877]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.14:907][881]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.14:949][884]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.14:997][887]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.15:133][891]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.15:133][891]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.15:149][892]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.15:200][895]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.15:652][917]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.15:697][919]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.15:761][922]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.15:796][924]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.15:870][927]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.15:899][928]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.15:961][931]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.16:003][933]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.16:067][936]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.16:119][938]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.16:164][940]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.16:219][942]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.16:264][944]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.16:303][946]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.16:355][949]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.16:404][952]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.16:458][955]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.16:497][957]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.16:551][960]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.16:597][963]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.16:647][966]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.16:696][969]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.16:760][973]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.16:796][975]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.16:851][978]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.16:904][981]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.16:960][984]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.17:009][987]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.17:055][990]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.17:100][993]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.17:157][996]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.17:210][999]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.17:265][  2]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.17:314][  4]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.17:360][  6]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.17:412][  9]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.17:447][ 11]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.17:503][ 14]LogBlueprintUserMessages: [online_controller_C_0] Server: false
+[2022.10.28-02.12.17:717][ 19]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.17:754][ 21]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.17:822][ 24]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.17:861][ 26]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.17:899][ 28]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.17:952][ 31]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.18:065][ 33]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.18:066][ 33]LogBlueprintUserMessages: [online_controller_C_0] Server: true
+[2022.10.28-02.12.18:122][ 34]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2022.10.28-02.12.18:124][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-02.12.18:124][ 34]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_MAP_RUNES_2
+[2022.10.28-02.12.18:134][ 34]LogWorld: UWorld::CleanupWorld for MAP_RUNES_2, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-02.12.18:136][ 34]LogNet: NotifyActorRenamed StartupActor: DESTROYED_ThirdPersonCharacter_NinjaAsComponent_C_CHILDACTOR_1 PreviousName: ThirdPersonCharacter_NinjaAsComponent_GEN_VARIABLE_ThirdPersonCharacter_NinjaAsComponent_C_CAT_0
+[2022.10.28-02.12.18:141][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-02.12.18:166][ 34]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2022.10.28-02.12.18:166][ 34]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2022.10.28-02.12.18:166][ 34]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2022.10.28-02.12.18:169][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.28-02.12.18:178][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-02.12.18:197][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-02.12.18:218][ 34]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.28-02.12.18:221][ 34]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.28-02.12.18:256][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.10.28-02.12.18:299][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.10.28-02.12.18:318][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.10.28-02.12.22:606][244]LogSourceControl: Attempting 'p4 fstat -Or C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Help.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/NinjaLive.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/NinjaLive_InterfaceController.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/NinjaLive_MemoryPoolManager.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/NinjaLive_PresetManager.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/NinjaLive_Utilities.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/NinjaLiveComponent.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/NinjaLiveTraceMesh.uasset'
+[2022.10.28-02.12.24:101][314]LogSourceControl: Attempting 'p4 fstat -Or C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/BP_NinjaDemo_BallSpawner1.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/BP_NinjaDemo_LightBeam1.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/BP_NinjaDemo_MovingBall1.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/BP_NinjaDemo_MovingBall2.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/BP_NinjaDemo_MovingBall1_NinjaComponentAdded.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/BP_NinjaDemo_Rotor1.uasset C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/DT_NinjaLive_PresetPlacementExample.uasset'
+[2022.10.28-02.12.29:762][570]LogShaderCompilers: Display: Worker (3/9) finished batch of 8 jobs in 64.487s, FRenderVolumetricCloudRenderViewCS [WorkerTime=44.316s], FCloudRenderViewPS011false [WorkerTime=7.639s], FCloudRenderViewPS001false [WorkerTime=5.431s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=1.854s], TVoxelizeVolumePS<VMode_Object_Box> [WorkerTime=1.519s], FLumenCardPS<false> [WorkerTime=1.198s], TVoxelizeVolumeVS<VMode_Primitive_Sphere> [WorkerTime=1.196s], FLumenCardVS [WorkerTime=1.152s]
+[2022.10.28-02.12.30:082][582]LogSourceControl: Attempting 'p4 fstat -Or C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level00_LIVE18.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level01_NewIntro_LIVE18.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level01_OriginalIntro.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level02A_KeySettings.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level02B_CriticalSettings.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level02C_LineTracingSource.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level03_SimulationInputs_LIVE17.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level04_WorldSpace_LIVE17.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level05_InterfaceAndSequencerControl.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level07_SimplePainter.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level08_Roots.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level10A_FluidblastTranslucent.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level10B_FluidblastOpaque.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level11_Smokechamber.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level20A_Niagara_LIVE17.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level20B_Niagara_LIVE17.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level21_MoreKeySettings_LIVE17.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level23_VolumeFog_LIVE17.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level24A_VolumeClouds.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level24B_VolumeClouds.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level24C_VolumeClouds.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level25_VolumeClouds.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level26_VolumeClouds.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level29_DetailMapping.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level30A_VolumeSmoke_LIVE17.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level30B_VolumeSmoke_LargeScale_LIVE17.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level31A_VolumeSmoke_Mistvalley_Unlit_LIVE17.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level31B_VolumeSmoke_Mistvalley_Lit_LIVE17.umap C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level32_WorldSpace_SimplePainter_Quantizer.umap'
+[2022.10.28-02.12.33:042][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.10.28-02.12.35:526][685]LogSlate: Window 'Save Content' being destroyed
+[2022.10.28-02.12.35:643][685]LogSourceControl: Attempting 'p4 fstat -Or C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/MAP_RUNES_2.umap'
+[2022.10.28-02.12.36:550][685]LogSlate: Window 'Check Out Assets' being destroyed
+[2022.10.28-02.12.36:786][685]LogSourceControl: Attempting 'p4 fstat -Or C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/MAP_RUNES_2.umap'
+[2022.10.28-02.12.36:786][685]LogSourceControl: Attempting 'p4 edit C:/Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/MAP_RUNES_2.umap'
+[2022.10.28-02.12.36:906][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.10.28-02.12.36:923][685]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.015286 seconds
+[2022.10.28-02.12.36:954][685]LogSavePackage: Moving output files for package: /Game/TopDown/MAP_RUNES_2
+[2022.10.28-02.12.36:956][685]LogSavePackage: Moving '../../../../../../Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Saved/MAP_RUNES_28F12DBDB4D8CB0D716E65493D0E6E81E.tmp' to '../../../../../../Users/xavie/Perforce/Xavier_Marz_DESKTOP-UPE8208_6055/simulation_production/Content/TopDown/MAP_RUNES_2.umap'
+[2022.10.28-02.12.36:982][685]LogFileHelpers: Saving map 'MAP_RUNES_2' took 0.106
+[2022.10.28-02.12.37:519][685]LogMaterial: Display: Missing cached shadermap for M_CheckerBasic in PCD3D_SM5, Default, SM5 (DDC key hash: 4ED6E4250D4FFADB41795EB3166BD490E1C731D0), compiling. 
+[2022.10.28-02.12.37:803][685]LogMaterial: Display: Missing cached shadermap for M_TextMaterialEmissive in PCD3D_SM5, Default, SM5 (DDC key hash: 146E9B8D2FE7D1FC1982921D500F829D8FA641CB), compiling. 
+[2022.10.28-02.12.37:866][685]LogMaterial: Display: Missing cached shadermap for MI_FluidNinjaLiveBaseSky5 in PCD3D_SM5, Default, SM5 (DDC key hash: 9E16E173F59182CFE80211B474E142886281D7A9), compiling. 
+[2022.10.28-02.12.37:951][685]LogMaterial: Display: Missing cached shadermap for MI_PawnHands_ColorPaintBuffer_Gray in PCD3D_SM5, Default, SM5 (DDC key hash: 72FBC8C677BC95660682898C042686546696D8FE), compiling. 
+[2022.10.28-02.12.37:997][685]LogMaterial: Display: Missing cached shadermap for MI_NinjaOutput_DryIce in PCD3D_SM5, Default, SM5 (DDC key hash: FEB871D7C84F9197C741F16222333785923A9C15), compiling. 
+[2022.10.28-02.12.38:052][685]LogMaterial: Display: Missing cached shadermap for MI_NinjaOutput_Homogen in PCD3D_SM5, Default, SM5 (DDC key hash: 0B3ED3FD26B2825183C21E4EF011349947F475FB), compiling. 
+[2022.10.28-02.12.38:101][685]LogMaterial: Display: Missing cached shadermap for MI_SolidColorDarkBlue in PCD3D_SM5, Default, SM5 (DDC key hash: 7ECAA3767659FA897EBE95AC404BBC2C0DC1EB22), compiling. 
+[2022.10.28-02.12.38:420][685]LogMaterial: Display: Missing cached shadermap for MI_VolumeFog_Homogen_LIVE17 in PCD3D_SM5, Default, SM5 (DDC key hash: CBB009F5D684165378B5BDC5B111E0C54365E2E3), compiling. 
+[2022.10.28-02.12.38:564][685]LogMaterial: Display: Missing cached shadermap for MI_VolumeFog_Trails_LIVE17 in PCD3D_SM5, Default, SM5 (DDC key hash: CAD06F4313A274BC92079F0E02CAD490B7B33049), compiling. 
+[2022.10.28-02.12.38:747][685]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FluidNinjaLive/Tutorial/Levels/NinjaLive_Level23_VolumeFog_LIVE17.NinjaLive_Level23_VolumeFog_LIVE17
+[2022.10.28-02.12.38:748][685]LightingResults: New page: Lighting Build
+[2022.10.28-02.12.38:748][685]LoadErrors: New page: Loading map: NinjaLive_Level23_VolumeFog_LIVE17.umap
+[2022.10.28-02.12.38:766][685]LogWorld: UWorld::CleanupWorld for MAP_RUNES_2, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-02.12.38:767][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-02.12.38:767][685]LogWorld: UWorld::CleanupWorld for mesh, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-02.12.38:767][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-02.12.38:767][685]LogWorld: UWorld::CleanupWorld for light, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-02.12.38:767][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-02.12.38:767][685]LogWorld: UWorld::CleanupWorld for landscape, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-02.12.38:767][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-02.12.38:768][685]MapCheck: New page: Map Check
+[2022.10.28-02.12.38:768][685]LightingResults: New page: Lighting Build
+[2022.10.28-02.12.38:793][685]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.28-02.12.38:823][685]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
