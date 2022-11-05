@@ -1697,3 +1697,593 @@ Continue: Skip saving this asset only.
 /Game/TopDown/online_controller
 [2022.11.04-14.53.54:081][800]LogSourceControl: Writed 'C:/Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Diff/temp-283c5826d45d13aa4841267c10e40046e4a70570-pawn_material.uasset' (12304o)
 [2022.11.04-14.54.10:159][834]LogSlate: Window 'File History' being destroyed
+[2022.11.04-14.54.35:275][923]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.11.04-14.54.35:281][923]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.070
+[2022.11.04-14.54.35:282][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-14.54.35:282][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-14.54.35:403][923]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-14.54.35:403][923]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-14.54.35:403][923]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-14.54.35:403][923]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-14.54.59:689][222]LogSlate: Window 'Check Out Assets' being destroyed
+[2022.11.04-14.55.03:607][222]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2022.11.04-14.55.03:614][222]Message dialog closed, result: Cancel, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/TopDown/online_controller
+[2022.11.04-15.03.25:363][724]LogDerivedDataCache: C:/Users/xavie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.437 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.04-15.04.35:892][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.11.04-15.04.35:894][933]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.059
+[2022.11.04-15.04.35:895][933]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-15.04.35:895][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-15.04.36:013][933]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-15.04.36:014][933]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-15.04.36:014][933]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-15.04.36:014][933]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-15.14.36:329][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.11.04-15.14.36:331][723]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.057
+[2022.11.04-15.14.36:331][723]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-15.14.36:331][723]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-15.14.36:450][723]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-15.14.36:450][723]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-15.14.36:450][723]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-15.14.36:450][723]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-15.20.11:925][723]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (HyperX Cloud Stinger Wireless), InstanceID=1
+[2022.11.04-15.20.11:925][723]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8316
+[2022.11.04-15.20.12:255][723]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{fa448c36-bf55-46d4-ac10-3c838b1bea2d}, Name=Speakers (HyperX Cloud Stinger Wireless)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=12.60
+[2022.11.04-15.20.12:255][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.04-15.20.12:263][724]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.04-15.24.36:882][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.11.04-15.24.36:884][512]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.057
+[2022.11.04-15.24.36:885][512]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-15.24.36:885][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-15.24.37:004][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-15.24.37:004][512]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-15.24.37:004][512]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-15.24.37:004][512]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-15.34.37:341][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.11.04-15.34.37:343][302]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.04-15.34.37:344][302]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-15.34.37:344][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-15.34.37:461][302]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-15.34.37:461][302]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-15.34.37:461][302]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-15.34.37:461][302]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-15.35.58:181][543]LogViewport: Scene viewport resized to 1138x611, mode Windowed.
+[2022.11.04-15.35.58:644][543]LogViewport: Scene viewport resized to 1132x565, mode Windowed.
+[2022.11.04-15.35.59:340][545]LogViewport: Scene viewport resized to 1132x539, mode Windowed.
+[2022.11.04-15.36.00:747][549]LogViewport: Scene viewport resized to 1132x528, mode Windowed.
+[2022.11.04-15.36.01:830][552]LogViewport: Scene viewport resized to 1132x526, mode Windowed.
+[2022.11.04-15.44.37:850][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.04-15.44.37:853][ 88]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.056
+[2022.11.04-15.44.37:854][ 88]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-15.44.37:854][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-15.44.37:975][ 88]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-15.44.37:975][ 88]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-15.44.37:975][ 88]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-15.44.37:975][ 88]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-15.54.38:544][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.11.04-15.54.38:546][877]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.04-15.54.38:546][877]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-15.54.38:546][877]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-15.54.38:664][877]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-15.54.38:664][877]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-15.54.38:664][877]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-15.54.38:664][877]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-16.03.24:617][445]LogDerivedDataCache: C:/Users/xavie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.624 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.04-16.04.39:308][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.11.04-16.04.39:310][666]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.056
+[2022.11.04-16.04.39:311][666]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-16.04.39:311][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-16.04.39:432][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-16.04.39:432][666]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-16.04.39:432][666]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-16.04.39:432][666]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-16.14.39:904][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.04-16.14.39:906][455]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.04-16.14.39:907][455]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-16.14.39:907][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-16.14.40:025][455]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-16.14.40:025][455]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-16.14.40:025][455]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-16.14.40:025][455]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-16.24.40:426][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.04-16.24.40:428][243]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.04-16.24.40:428][243]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-16.24.40:428][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-16.24.40:546][243]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-16.24.40:547][243]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-16.24.40:547][243]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-16.24.40:547][243]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-16.34.41:072][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.11.04-16.34.41:074][ 32]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.057
+[2022.11.04-16.34.41:075][ 32]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-16.34.41:075][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-16.34.41:199][ 32]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-16.34.41:199][ 32]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-16.34.41:199][ 32]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-16.34.41:199][ 32]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-16.44.41:700][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.04-16.44.41:701][821]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.057
+[2022.11.04-16.44.41:702][821]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-16.44.41:702][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-16.44.41:819][821]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-16.44.41:820][821]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-16.44.41:820][821]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-16.44.41:820][821]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-16.54.42:153][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.04-16.54.42:154][609]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.057
+[2022.11.04-16.54.42:155][609]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-16.54.42:155][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-16.54.42:272][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-16.54.42:272][609]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-16.54.42:272][609]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-16.54.42:272][609]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-17.03.24:637][166]LogDerivedDataCache: C:/Users/xavie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.940 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.04-17.04.42:665][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.11.04-17.04.42:666][397]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.054
+[2022.11.04-17.04.42:667][397]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-17.04.42:667][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-17.04.42:786][397]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-17.04.42:787][397]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-17.04.42:787][397]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-17.04.42:787][397]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-17.14.43:194][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.11.04-17.14.43:195][185]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.056
+[2022.11.04-17.14.43:196][185]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-17.14.43:196][185]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-17.14.43:314][185]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-17.14.43:314][185]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-17.14.43:314][185]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-17.14.43:314][185]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-17.24.43:665][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.04-17.24.43:667][973]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.054
+[2022.11.04-17.24.43:668][973]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-17.24.43:668][973]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-17.24.43:785][973]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-17.24.43:785][973]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-17.24.43:785][973]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-17.24.43:785][973]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-17.34.44:186][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.11.04-17.34.44:188][761]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.04-17.34.44:188][761]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-17.34.44:188][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-17.34.44:307][761]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-17.34.44:307][761]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-17.34.44:307][761]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-17.34.44:307][761]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-17.44.44:621][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.11.04-17.44.44:623][549]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.04-17.44.44:623][549]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-17.44.44:623][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-17.44.44:742][549]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-17.44.44:743][549]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-17.44.44:743][549]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-17.44.44:743][549]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-17.54.45:155][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.04-17.54.45:157][337]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.04-17.54.45:158][337]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-17.54.45:158][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-17.54.45:274][337]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-17.54.45:274][337]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-17.54.45:274][337]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-17.54.45:274][337]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-18.03.25:114][887]LogDerivedDataCache: C:/Users/xavie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.147 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.04-18.04.45:837][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.04-18.04.45:839][126]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.054
+[2022.11.04-18.04.45:840][126]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-18.04.45:840][126]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-18.04.45:958][126]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-18.04.45:958][126]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-18.04.45:958][126]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-18.04.45:958][126]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-18.14.46:528][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.04-18.14.46:530][915]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.04-18.14.46:530][915]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-18.14.46:530][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-18.14.46:648][915]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-18.14.46:648][915]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-18.14.46:648][915]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-18.14.46:648][915]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-18.24.46:967][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.11.04-18.24.46:969][704]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.04-18.24.46:969][704]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-18.24.46:969][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-18.24.47:087][704]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-18.24.47:087][704]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-18.24.47:087][704]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-18.24.47:087][704]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-18.34.47:456][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.04-18.34.47:457][493]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.04-18.34.47:458][493]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-18.34.47:458][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-18.34.47:575][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-18.34.47:575][493]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-18.34.47:575][493]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-18.34.47:575][493]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-18.44.48:122][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.11.04-18.44.48:124][283]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.054
+[2022.11.04-18.44.48:124][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-18.44.48:124][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-18.44.48:242][283]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-18.44.48:243][283]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-18.44.48:243][283]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-18.44.48:243][283]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-18.54.48:599][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.11.04-18.54.48:601][ 72]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.056
+[2022.11.04-18.54.48:601][ 72]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-18.54.48:601][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-18.54.48:719][ 72]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-18.54.48:719][ 72]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-18.54.48:719][ 72]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-18.54.48:719][ 72]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-19.03.24:715][611]LogDerivedDataCache: C:/Users/xavie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.759 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.04-19.04.49:057][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.11.04-19.04.49:059][861]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.04-19.04.49:059][861]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-19.04.49:059][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-19.04.49:176][861]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-19.04.49:176][861]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-19.04.49:177][861]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-19.04.49:177][861]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-19.14.49:548][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.04-19.14.49:549][650]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.053
+[2022.11.04-19.14.49:550][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-19.14.49:550][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-19.14.49:668][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-19.14.49:668][650]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-19.14.49:668][650]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-19.14.49:668][650]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-19.24.50:014][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.11.04-19.24.50:016][439]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.054
+[2022.11.04-19.24.50:018][439]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-19.24.50:018][439]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-19.24.50:135][439]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-19.24.50:135][439]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-19.24.50:135][439]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-19.24.50:135][439]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-19.34.50:701][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.11.04-19.34.50:703][228]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.057
+[2022.11.04-19.34.50:703][228]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-19.34.50:704][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-19.34.50:824][228]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-19.34.50:824][228]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-19.34.50:824][228]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-19.34.50:824][228]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-19.44.51:135][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.11.04-19.44.51:137][ 17]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.04-19.44.51:137][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-19.44.51:138][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-19.44.51:257][ 17]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-19.44.51:257][ 17]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-19.44.51:257][ 17]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-19.44.51:257][ 17]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-19.54.51:836][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.11.04-19.54.51:838][806]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.04-19.54.51:838][806]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-19.54.51:838][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-19.54.51:956][806]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-19.54.51:956][806]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-19.54.51:956][806]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-19.54.51:956][806]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-20.03.24:970][336]LogDerivedDataCache: C:/Users/xavie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.106 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.04-20.04.52:366][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.04-20.04.52:368][595]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.04-20.04.52:368][595]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-20.04.52:368][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-20.04.52:486][595]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-20.04.52:486][595]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-20.04.52:486][595]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-20.04.52:486][595]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-20.14.52:819][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.11.04-20.14.52:821][383]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.04-20.14.52:822][383]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-20.14.52:822][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-20.14.52:939][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-20.14.52:939][383]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-20.14.52:939][383]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-20.14.52:939][383]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-20.24.53:294][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.11.04-20.24.53:296][170]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.056
+[2022.11.04-20.24.53:296][170]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-20.24.53:296][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-20.24.53:414][170]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-20.24.53:414][170]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-20.24.53:414][170]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-20.24.53:415][170]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-20.34.53:766][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.11.04-20.34.53:768][958]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.056
+[2022.11.04-20.34.53:768][958]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-20.34.53:768][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-20.34.53:889][958]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-20.34.53:889][958]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-20.34.53:889][958]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-20.34.53:889][958]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-20.44.54:309][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.04-20.44.54:312][746]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.060
+[2022.11.04-20.44.54:313][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-20.44.54:313][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-20.44.54:434][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-20.44.54:434][746]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-20.44.54:434][746]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-20.44.54:434][746]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-20.54.54:989][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.11.04-20.54.54:991][535]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.060
+[2022.11.04-20.54.54:992][535]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-20.54.54:992][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-20.54.55:110][535]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-20.54.55:110][535]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-20.54.55:110][535]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-20.54.55:110][535]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-21.03.25:057][ 56]LogDerivedDataCache: C:/Users/xavie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.042 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.04-21.04.55:490][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.04-21.04.55:492][324]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.056
+[2022.11.04-21.04.55:493][324]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-21.04.55:493][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-21.04.55:611][324]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-21.04.55:611][324]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-21.04.55:611][324]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-21.04.55:611][324]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-21.14.56:044][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.04-21.14.56:046][112]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.059
+[2022.11.04-21.14.56:046][112]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-21.14.56:046][112]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-21.14.56:164][112]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-21.14.56:164][112]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-21.14.56:164][112]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-21.14.56:164][112]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-21.24.56:716][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.11.04-21.24.56:718][901]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.056
+[2022.11.04-21.24.56:718][901]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-21.24.56:718][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-21.24.56:846][901]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-21.24.56:846][901]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-21.24.56:846][901]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-21.24.56:846][901]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-21.34.57:226][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.11.04-21.34.57:228][689]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.04-21.34.57:228][689]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-21.34.57:228][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-21.34.57:346][689]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-21.34.57:346][689]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-21.34.57:346][689]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-21.34.57:346][689]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-21.44.57:950][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.04-21.44.57:952][481]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.056
+[2022.11.04-21.44.57:952][481]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-21.44.57:952][481]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-21.44.58:070][481]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-21.44.58:070][481]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-21.44.58:070][481]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-21.44.58:070][481]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-21.54.58:364][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.11.04-21.54.58:366][269]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.054
+[2022.11.04-21.54.58:367][269]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-21.54.58:367][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-21.54.58:490][269]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-21.54.58:490][269]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-21.54.58:490][269]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-21.54.58:490][269]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-22.03.24:988][779]LogDerivedDataCache: C:/Users/xavie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.089 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.04-22.04.58:816][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.04-22.04.58:818][ 57]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.04-22.04.58:818][ 57]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-22.04.58:818][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-22.04.58:935][ 57]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-22.04.58:936][ 57]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-22.04.58:936][ 57]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-22.04.58:936][ 57]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-22.14.59:540][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.04-22.14.59:542][846]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.056
+[2022.11.04-22.14.59:543][846]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-22.14.59:543][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-22.14.59:662][846]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-22.14.59:662][846]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-22.14.59:662][846]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-22.14.59:662][846]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-22.25.00:057][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.04-22.25.00:059][634]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.04-22.25.00:060][634]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-22.25.00:060][634]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-22.25.00:177][634]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-22.25.00:177][634]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-22.25.00:177][634]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-22.25.00:177][634]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-22.35.00:757][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.11.04-22.35.00:759][423]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.04-22.35.00:759][423]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-22.35.00:759][423]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-22.35.00:877][423]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-22.35.00:877][423]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-22.35.00:877][423]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-22.35.00:877][423]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-22.45.01:197][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.11.04-22.45.01:199][211]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.054
+[2022.11.04-22.45.01:199][211]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-22.45.01:199][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-22.45.01:315][211]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-22.45.01:316][211]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-22.45.01:316][211]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-22.45.01:316][211]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-22.55.01:937][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.04-22.55.01:939][  0]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.054
+[2022.11.04-22.55.01:940][  0]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-22.55.01:940][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-22.55.02:057][  0]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-22.55.02:057][  0]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-22.55.02:057][  0]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-22.55.02:057][  0]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-23.03.24:359][498]LogDerivedDataCache: C:/Users/xavie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.652 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.04-23.05.02:481][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.11.04-23.05.02:482][789]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.057
+[2022.11.04-23.05.02:483][789]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-23.05.02:483][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-23.05.02:600][789]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-23.05.02:600][789]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-23.05.02:600][789]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-23.05.02:600][789]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-23.15.03:224][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.11.04-23.15.03:225][578]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.04-23.15.03:226][578]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-23.15.03:226][578]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-23.15.03:344][578]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-23.15.03:344][578]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-23.15.03:344][578]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-23.15.03:344][578]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-23.25.03:674][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.04-23.25.03:676][366]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.04-23.25.03:676][366]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-23.25.03:676][366]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-23.25.03:794][366]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-23.25.03:794][366]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-23.25.03:794][366]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-23.25.03:794][366]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-23.35.04:164][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.04-23.35.04:166][154]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.054
+[2022.11.04-23.35.04:166][154]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-23.35.04:166][154]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-23.35.04:284][154]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-23.35.04:284][154]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-23.35.04:284][154]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-23.35.04:284][154]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-23.45.04:800][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.11.04-23.45.04:801][943]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.04-23.45.04:802][943]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-23.45.04:802][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-23.45.04:919][943]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-23.45.04:919][943]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-23.45.04:919][943]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-23.45.04:920][943]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-23.55.05:193][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.04-23.55.05:195][731]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.053
+[2022.11.04-23.55.05:196][731]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.04-23.55.05:196][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.04-23.55.05:314][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.04-23.55.05:314][731]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.04-23.55.05:314][731]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.04-23.55.05:314][731]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-00.03.24:778][220]LogDerivedDataCache: C:/Users/xavie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.839 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.05-00.05.05:600][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.11.05-00.05.05:602][519]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.05-00.05.05:602][519]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.05-00.05.05:602][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.05-00.05.05:724][519]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.05-00.05.05:724][519]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.05-00.05.05:724][519]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-00.05.05:724][519]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-00.15.06:334][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.11.05-00.15.06:336][308]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.054
+[2022.11.05-00.15.06:336][308]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.05-00.15.06:336][308]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.05-00.15.06:456][308]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.05-00.15.06:457][308]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.05-00.15.06:457][308]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-00.15.06:457][308]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-00.25.06:807][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.05-00.25.06:809][ 96]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.054
+[2022.11.05-00.25.06:810][ 96]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.05-00.25.06:810][ 96]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.05-00.25.06:929][ 96]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.05-00.25.06:929][ 96]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.05-00.25.06:929][ 96]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-00.25.06:930][ 96]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-00.35.07:444][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.05-00.35.07:446][885]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.054
+[2022.11.05-00.35.07:447][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.05-00.35.07:447][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.05-00.35.07:564][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.05-00.35.07:564][885]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.05-00.35.07:564][885]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-00.35.07:564][885]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-00.45.08:110][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.11.05-00.45.08:112][674]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.05-00.45.08:113][674]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.05-00.45.08:113][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.05-00.45.08:231][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.05-00.45.08:231][674]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.05-00.45.08:231][674]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-00.45.08:231][674]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-00.55.08:654][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.11.05-00.55.08:655][462]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.056
+[2022.11.05-00.55.08:656][462]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.05-00.55.08:656][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.05-00.55.08:779][462]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.05-00.55.08:779][462]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.05-00.55.08:779][462]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-00.55.08:779][462]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-01.03.24:785][941]LogDerivedDataCache: C:/Users/xavie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.888 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.05-01.05.09:310][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.11.05-01.05.09:312][251]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.05-01.05.09:312][251]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.05-01.05.09:312][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.05-01.05.09:431][251]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.05-01.05.09:431][251]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.05-01.05.09:431][251]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-01.05.09:431][251]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-01.15.09:904][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.11.05-01.15.09:906][ 39]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.054
+[2022.11.05-01.15.09:906][ 39]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.05-01.15.09:906][ 39]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.05-01.15.10:024][ 39]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.05-01.15.10:024][ 39]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.05-01.15.10:024][ 39]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-01.15.10:024][ 39]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-01.25.10:506][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.11.05-01.25.10:508][828]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.056
+[2022.11.05-01.25.10:508][828]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.05-01.25.10:508][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.05-01.25.10:625][828]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.05-01.25.10:626][828]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.05-01.25.10:626][828]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-01.25.10:626][828]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-01.35.11:181][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.05-01.35.11:183][616]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.054
+[2022.11.05-01.35.11:183][616]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.05-01.35.11:183][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.05-01.35.11:301][616]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.05-01.35.11:301][616]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.05-01.35.11:301][616]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-01.35.11:301][616]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-01.45.11:829][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.05-01.45.11:831][405]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.05-01.45.11:832][405]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.05-01.45.11:832][405]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.05-01.45.11:950][405]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.05-01.45.11:950][405]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.05-01.45.11:950][405]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-01.45.11:950][405]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-01.55.12:298][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.11.05-01.55.12:300][193]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.054
+[2022.11.05-01.55.12:300][193]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.05-01.55.12:300][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.05-01.55.12:421][193]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.05-01.55.12:421][193]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.05-01.55.12:421][193]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-01.55.12:421][193]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-02.03.24:871][661]LogDerivedDataCache: C:/Users/xavie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.923 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.05-02.05.12:893][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.11.05-02.05.12:895][981]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.055
+[2022.11.05-02.05.12:896][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.05-02.05.12:896][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.05-02.05.13:013][981]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.05-02.05.13:014][981]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.05-02.05.13:014][981]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-02.05.13:014][981]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-02.14.59:726][727]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LG ULTRAWIDE (NVIDIA High Definition Audio), InstanceID=1
+[2022.11.05-02.14.59:726][727]LogViewport: Scene viewport resized to 1515x565, mode Windowed.
+[2022.11.05-02.15.00:291][727]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8316
+[2022.11.05-02.15.00:291][727]LogViewport: Scene viewport resized to 1521x611, mode Windowed.
+[2022.11.05-02.15.00:595][728]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3cd1a451-84ab-438f-88d4-968713a1013a}, Name=LG ULTRAWIDE (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=160.45
+[2022.11.05-02.15.00:595][728]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.05-02.15.00:633][729]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.05-02.15.01:620][731]LogViewport: Scene viewport resized to 1521x572, mode Windowed.
+[2022.11.05-02.15.04:284][738]LogViewport: Scene viewport resized to 1521x583, mode Windowed.
+[2022.11.05-02.15.05:452][742]LogViewport: Scene viewport resized to 1521x585, mode Windowed.
+[2022.11.05-02.15.13:463][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.11.05-02.15.13:465][765]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/MAP_RUNES_2' took 0.060
+[2022.11.05-02.15.13:466][765]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/online_controller] ([2] browsable assets)...
+[2022.11.05-02.15.13:466][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/online_controller]
+[2022.11.05-02.15.13:589][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/online_controller_Auto1
+[2022.11.05-02.15.13:590][765]LogSavePackage: Error: Cannot remove '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset' as it is read only!
+[2022.11.05-02.15.13:590][765]LogSavePackage: Error: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-02.15.13:590][765]Warning: Error saving '../../../../../../Users/xavie/Documents/GitHub/travail session finale/tuer-moi/Saved/Autosaves/Game/TopDown/online_controller_Auto1.uasset'
+[2022.11.05-02.15.42:200][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.11.05-02.15.47:211][325]LogSlate: Window 'Save Content' being destroyed
